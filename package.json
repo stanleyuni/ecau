@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@angular/cli": "^13.3.0",
+    "firebase-tools": "^10.4.2"
+  },
+  "scripts": {
+    "start": "cd ./app && npm run start",
+    "deploy": "firebase deploy"
+  }
+}
