@@ -6,3 +6,17 @@ a {
   color: inherit; /* blue colors for links too */
   text-decoration: inherit; /* no underline */
 }
+
+.heading {
+  max-width: 80%;
+}
+
+.logo {
+  display: inline-block;
+}
+
+.txt-logo {
+  display: inline-block;
+  position: absolute;
+  margin-left: 5px;
+}

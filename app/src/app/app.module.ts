@@ -16,10 +16,14 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatMenuModule } from '@angular/material/menu';
 import { MatInputModule } from '@angular/material/input';
 import { MatFormFieldModule } from '@angular/material/form-field'; 
-import { ContactComponent } from './contact/contact.component';
-import { IndexComponent } from './index/index.component';
-import { NotFoundComponent } from './not-found/not-found.component';
-import { PoliciesComponent } from './policies/policies.component';
+import { ContactComponent } from './contact/contact';
+import { IndexComponent } from './index';
+import { NotFoundComponent } from './not-found/not-found';
+import { PoliciesComponent } from './policies/policies';
+import { ResearchComponent } from './research/research';
+import { MatListModule } from '@angular/material/list';
+import { MatTableModule } from '@angular/material/table';
+import { MatPaginatorModule } from '@angular/material/paginator';
 
 @NgModule({
   declarations: [
@@ -27,7 +31,8 @@ import { PoliciesComponent } from './policies/policies.component';
     IndexComponent,
     NotFoundComponent,
     PoliciesComponent,
-    ContactComponent
+    ContactComponent,
+    ResearchComponent
   ],
   imports: [
     BrowserModule,
@@ -42,6 +47,9 @@ import { PoliciesComponent } from './policies/policies.component';
     MatMenuModule,
     MatInputModule,
     MatFormFieldModule,
+    MatListModule,
+    MatTableModule,
+    MatPaginatorModule,
   ],
   providers: [],
   bootstrap: [AppComponent],

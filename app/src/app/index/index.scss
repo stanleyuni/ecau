@@ -1,0 +1,26 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  max-height: 300px;
+}
+
+.seller {
+  font-weight: bold;
+  text-align: center;
+  align-content: center;
+  font-size: large;
+}
+
+h1 {
+  text-align: center;
+  color: rgba(0,0,0,.54);
+  font-weight: bold;
+}
+
+.intro {
+  text-align: justify;
+  margin: 10px;
+  text-justify: inter-word;
+}

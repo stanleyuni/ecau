@@ -1,6 +1,6 @@
 <div>
-  <mat-toolbar>
-    Executive Council for Australian Unity
+  <mat-toolbar fixed>
+    <a href='/'><img src='/assets/favicon-32x32.png' class='logo' /><div mat-heading class='txt-logo'>ECAU</div></a>
     <span class="spacer"></span>
     <button mat-button [matMenuTriggerFor]="beforeMenu" mat-icon-button aria-label="button with a menu icon">
       <mat-icon>menu</mat-icon>
@@ -9,7 +9,7 @@
       <a href='/'><button mat-menu-item>Home</button></a>
       <a href='/policies'><button mat-menu-item>Policies</button></a>
       <a href='/contact'><button mat-menu-item>Contact</button></a>
-      <a href='https://www.youtube.com/channel/UCxMEtV_wVRSYFtkcy4TwNow' target="_blank" rel="noopener"><button mat-menu-item>Free Resources</button></a>
+      <a href='https://www.youtube.com/channel/UCxMEtV_wVRSYFtkcy4TwNow' target="_blank" rel="noopener"><button mat-menu-item>Resources</button></a>
       <a href='/research'><button mat-menu-item>Research</button></a>
       <a href='/join'><button mat-menu-item>Join</button></a>
     </mat-menu>

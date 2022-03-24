@@ -1,9 +1,12 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { NotFoundComponent } from './not-found/not-found.component';
-import { IndexComponent } from './index/index.component';
-import { PoliciesComponent } from './policies/policies.component';
-import { ContactComponent } from './contact/contact.component';
+
+import { NotFoundComponent } from './not-found/not-found';
+import { IndexComponent } from './index/index';
+import { PoliciesComponent } from './policies/policies';
+import { ContactComponent } from './contact/contact';
+import { ResearchComponent } from './research/research';
+
 
 const routes: Routes = [
   { 
@@ -20,7 +23,14 @@ const routes: Routes = [
       title: 'ECAU - Policies'
     }
   },
-  { 
+  {
+    path: 'research',
+    component: ResearchComponent,
+    data: {
+      title: 'ECAU - Research'
+    }
+  },
+  {
     path: 'contact', 
     component: ContactComponent,
     data: {
