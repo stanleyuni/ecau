@@ -20,10 +20,11 @@ import { ContactComponent } from './contact/contact';
 import { IndexComponent } from './index';
 import { NotFoundComponent } from './not-found/not-found';
 import { PoliciesComponent } from './policies/policies';
-import { ResearchComponent } from './research/research';
+import { ResourcesComponent } from './resources/resources';
 import { MatListModule } from '@angular/material/list';
 import { MatTableModule } from '@angular/material/table';
 import { MatPaginatorModule } from '@angular/material/paginator';
+import { MatSortModule } from '@angular/material/sort';
 
 @NgModule({
   declarations: [
@@ -32,7 +33,7 @@ import { MatPaginatorModule } from '@angular/material/paginator';
     NotFoundComponent,
     PoliciesComponent,
     ContactComponent,
-    ResearchComponent
+    ResourcesComponent
   ],
   imports: [
     BrowserModule,
@@ -50,6 +51,7 @@ import { MatPaginatorModule } from '@angular/material/paginator';
     MatListModule,
     MatTableModule,
     MatPaginatorModule,
+    MatSortModule,
   ],
   providers: [],
   bootstrap: [AppComponent],

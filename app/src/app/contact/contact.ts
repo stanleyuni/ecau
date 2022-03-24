@@ -5,4 +5,8 @@ import { Component } from '@angular/core';
   templateUrl: './contact.html',
   styleUrls: ['./contact.scss'],
 })
-export class ContactComponent {}
+export class ContactComponent {
+  pushButton() {
+    alert("Sorry this feature isn't available yet");
+  }
+}

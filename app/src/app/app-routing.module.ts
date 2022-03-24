@@ -5,7 +5,7 @@ import { NotFoundComponent } from './not-found/not-found';
 import { IndexComponent } from './index/index';
 import { PoliciesComponent } from './policies/policies';
 import { ContactComponent } from './contact/contact';
-import { ResearchComponent } from './research/research';
+import { ResourcesComponent } from './resources/resources';
 
 
 const routes: Routes = [
@@ -24,8 +24,8 @@ const routes: Routes = [
     }
   },
   {
-    path: 'research',
-    component: ResearchComponent,
+    path: 'resources',
+    component: ResourcesComponent,
     data: {
       title: 'ECAU - Research'
     }

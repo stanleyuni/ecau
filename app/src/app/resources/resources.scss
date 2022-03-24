@@ -21,3 +21,11 @@ table {
 td, th {
   width: 25%;
 }
+
+tr.element-row:hover {
+  background: whitesmoke;
+}
+
+tr.element-row:active {
+  background: #efefef;
+}
