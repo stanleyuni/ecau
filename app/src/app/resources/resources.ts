@@ -5,6 +5,7 @@ import {MatTableDataSource} from '@angular/material/table';
 
 export interface ResearchPaper {
   title: string;
+  author: string;
   journal: string;
   year: string;
   link: string;
@@ -13,48 +14,56 @@ export interface ResearchPaper {
 const PAPERS: ResearchPaper[] = [
   {
     title: 'Psychology and White Ethnocentrism',
+    author: 'Kevin MacDonald',
     journal: 'The Occidental Quarterly',
     year: '2006',
     link: 'http://www.kevinmacdonald.net/WhiteEthnocentrism.pdf'
   },
   {
     title: 'The War on White Australia',
+    author: 'Brenton Sanderson',
     journal: 'Occidental Observer',
     year: '2012',
     link: '/assets/TheWaronWhiteAustralia-BrentonSanderson.pdf'
   },
   {
     title: 'The White Australia Policy In Retrospect: Racism Or Realism?',
+    author: 'Andrew Fraser',
     journal: 'The Occidental Quarterly',
     year: '2005',
     link: 'https://www.academia.edu/44978186/THE_WHITE_AUSTRALIA_POLICY_IN_RETROSPECT_RACISM_OR_REALISM'
   },
   {
     title: 'Demise Of The White Australia Policy',
-    journal: 'Unknown (Dr Charles Fahey)',
+    journal: 'Unknown',
+    author: 'Dr Charles Fahey',
     year:  'Unknown',
     link: 'https://www.christianidentityaustralia.org/reads/Demise-Policy.pdf'
   },
   {
     title: 'I Stand By White Australia',
+    author: 'Author Calwell',
     journal: 'Australian Labor Party',
     year: '1949',
     link: '/assets/ArthurCalwell-IStandByWhiteAustralia.pdf'
   },
   {
     title: 'Aboriginal Cannibalism In Australia',
+    author: 'Unknown',
     journal: 'Unknown',
     year: 'Unknown',
     link: '/assets/AboriginalCannibalismInAustralia.pdf'
   },
   {
     title: 'Some Notes on Aboriginal Cannibalism',
+    author: 'E. G. Heap',
     journal: 'Queensland Heritage',
     year: '1967',
-    link: 'https://espace.library.uq.edu.au/data/UQ_242712/Qld_heritage_v1_no7_1967_p25_29.pdf?Expires=1648115290&Key-Pair-Id=APKAJKNBJ4MJBJNC6NLQ&Signature=bTgqLRajeXO-NpJZOkSNy-vNEjNZVNhFT3oWE6oDZoZ-l6F5tuGhO8nJv2EgwNWJt3M4C2zHtLdvLkX66g9sIOoyuqPraGQ4XV7VlAt1jA71otE9BfIYVcZVNbRnfDIoXu49y-AzqU-trSJTNcB3fYhK3tvh8BQor3c3~w1bi-kQX~D-DWAdZVUPgarLpJDMaJqkMIto6g92R8W97wrHboUEeDDgf-OgG8NgR1IAYika4JYqwgqd1mOsd~zOEu0cTpP-sTRdpeO5OGCFl9xvMIiWnPROIqwCNg8j2svD1MMUMaltKtcTkm8siGjKOxcm~cqpMDKolKKPCDCV8WMr4g__'
+    link: 'https://www.textqueensland.com.au/item/article/02e44ec586af038cffc507238ef49f56'
   },
   {
     title: 'Politics Essay: White Australia Policy',
+    author: 'Unknown',
     journal: 'Unknown',
     year: 'Unknown',
     link: 'https://www.christianidentityaustralia.org/reads/White-Policy.pdf'
@@ -70,7 +79,7 @@ const PAPERS: ResearchPaper[] = [
   templateUrl: 'resources.html',
 })
 export class ResourcesComponent implements AfterViewInit {
-  public columns: string[] = ['title', 'journal', 'year'];
+  public columns: string[] = ['title', 'author', 'journal', 'year'];
   public dataSource: MatTableDataSource<ResearchPaper>;
 
   @ViewChild(MatPaginator) paginator!: MatPaginator;
