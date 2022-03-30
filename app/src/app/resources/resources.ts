@@ -356,6 +356,14 @@ const PAPERS: ResearchPaper[] = [
     year: '',
     link: '/assets/papers/FightForAustralianCulture.pdf',
     backup: '/assets/papers/FightForAustralianCulture.pdf'
+  },
+  {
+    title: 'The Menace of Multiculturalism',
+    author: 'Cameron McKenzie',
+    journal: '',
+    year: '1997',
+    link: '/assets/papers/TheMenaceofMulticulturalism.pdf',
+    backup: '/assets/papers/TheMenaceofMulticulturalism.pdf'
   }
 ];
 
