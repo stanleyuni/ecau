@@ -1,33 +1,26 @@
 <h3>RESEARCH ARTICLE ARCHIVE</h3>
 <p>Click on an article to view it</p>
 
-<mat-form-field appearance="standard">
-  <mat-label>Search</mat-label>
-  <input matInput (keyup)="applyFilter($event)" placeholder="Example: Immigration" #input>
-</mat-form-field>
+<div class="search-container">
+  <mat-form-field appearance="fill" class="search">
+    <mat-label>Search</mat-label>
+    <input matInput (keyup)="applyFilter($event)" placeholder="..." #input>
+    <button matSuffix mat-button>
+      <mat-icon>search</mat-icon>
+    </button>
+  </mat-form-field>
+</div>
 
-<!-- <div class="mat-elevation-z1">
-  <table mat-table [dataSource]="dataSource" matSort>
-    <ng-container matColumnDef="title">
-      <th mat-header-cell *matHeaderCellDef mat-sort-header> Title </th>
-      <td mat-cell *matCellDef="let row"> {{row.title}} </td>
+<div class="mat-elevation-z1">
+  <table mat-table [dataSource]="dataSource" multiTemplateDataRows matSort>
+    <ng-container matColumnDef="{{column}}" *ngFor="let column of columns">
+      <th mat-header-cell *matHeaderCellDef mat-sort-header class='{{column}}'> {{column | titlecase}} </th>
+      <td mat-cell *matCellDef="let element" class='{{column}}'> <span class='{{column}}'>{{element[column]}}</span> </td>
     </ng-container>
 
-
-    <ng-container matColumnDef="journal">
-      <th mat-header-cell *matHeaderCellDef mat-sort-header> Journal </th>
-      <td mat-cell *matCellDef="let row"> {{row.journal}} </td>
-    </ng-container>
-
-
-    <ng-container matColumnDef="date">
-      <th mat-header-cell *matHeaderCellDef mat-sort-header> Published </th>
-      <td mat-cell *matCellDef="let row"> {{row.date | date}} </td>
-    </ng-container>
-
-    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
-    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
-
+    <tr mat-header-row *matHeaderRowDef="columns"></tr>
+    <tr mat-row *matRowDef="let element; columns: columns;" class="element-row" (click)="clickEvent(element)">
+    </tr>
 
     <tr class="mat-row" *matNoDataRow>
       <td class="mat-cell" colspan="4">No data matching the filter "{{input.value}}"</td>
@@ -35,27 +28,4 @@
   </table>
 
   <mat-paginator [pageSizeOptions]="[5, 10, 25, 100]" aria-label="Select page of papers"></mat-paginator>
-</div> -->
-
-<div class="mat-elevation-z1">
-  <table mat-table [dataSource]="dataSource" multiTemplateDataRows matSort>
-    <ng-container matColumnDef="{{column}}" *ngFor="let column of columns">
-      <th mat-header-cell *matHeaderCellDef mat-sort-header> {{column | titlecase}} </th>
-      <td mat-cell *matCellDef="let element"> {{element[column]}} </td>
-    </ng-container>
-
-    <tr mat-header-row *matHeaderRowDef="columns"></tr>
-    <tr 
-      mat-row 
-      *matRowDef="let element; columns: columns;"
-      class="element-row"
-      (click)="clickEvent(element)">
-    </tr>
-    
-    <tr class="mat-row" *matNoDataRow>
-      <td class="mat-cell" colspan="4">No data matching the filter "{{input.value}}"</td>
-    </tr>
-  </table>
-
-<mat-paginator [pageSizeOptions]="[5, 10, 25, 100]" aria-label="Select page of papers"></mat-paginator>
 </div>

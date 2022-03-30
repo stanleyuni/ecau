@@ -25,6 +25,7 @@ import { MatListModule } from '@angular/material/list';
 import { MatTableModule } from '@angular/material/table';
 import { MatPaginatorModule } from '@angular/material/paginator';
 import { MatSortModule } from '@angular/material/sort';
+import { JoinComponent } from './join/join';
 
 @NgModule({
   declarations: [
@@ -33,7 +34,8 @@ import { MatSortModule } from '@angular/material/sort';
     NotFoundComponent,
     PoliciesComponent,
     ContactComponent,
-    ResourcesComponent
+    ResourcesComponent,
+    JoinComponent
   ],
   imports: [
     BrowserModule,

@@ -6,6 +6,7 @@ import { IndexComponent } from './index/index';
 import { PoliciesComponent } from './policies/policies';
 import { ContactComponent } from './contact/contact';
 import { ResourcesComponent } from './resources/resources';
+import { JoinComponent } from './join/join';
 
 
 const routes: Routes = [
@@ -35,6 +36,13 @@ const routes: Routes = [
     component: ContactComponent,
     data: {
       title: 'ECAU - Contact'
+    }
+  },
+  {
+    path: 'join', 
+    component: JoinComponent,
+    data: {
+      title: 'ECAU - Join'
     }
   },
   { 
