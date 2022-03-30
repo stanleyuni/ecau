@@ -39,9 +39,9 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'Demise Of The White Australia Policy',
-    journal: '-',
+    journal: '',
     author: 'Dr Charles Fahey',
-    year:  '-',
+    year:  '',
     link: 'https://www.christianidentityaustralia.org/reads/Demise-Policy.pdf',
     backup: '/assets/papers/DemiseOfTheWhiteAustraliaPolicy.pdf'
   },
@@ -55,9 +55,9 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'Aboriginal Cannibalism In Australia',
-    author: '-',
-    journal: '-',
-    year: '-',
+    author: '',
+    journal: '',
+    year: '',
     link: '/assets/papers/AboriginalCannibalismInAustralia.pdf',
     backup: '/assets/papers/AboriginalCannibalismInAustralia.pdf'
   },
@@ -71,9 +71,9 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'Politics Essay: White Australia Policy',
-    author: '-',
-    journal: '-',
-    year: '-',
+    author: '',
+    journal: '',
+    year: '',
     link: 'https://www.christianidentityaustralia.org/reads/White-Policy.pdf',
     backup: '/assets/papers/PoliticalEssayWhiteAustraliaPolicy.pdf'
   },
@@ -207,7 +207,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'Keep White the Strain',
-    author: '-',
+    author: '',
     journal: 'Poetry',
     year: '1800\'s',
     link: '/assets/papers/KeepWhiteTheStrain.pdf',
@@ -295,7 +295,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'UK: Rising Gang Rapes of White Girls a Byproduct of Multiracialist Experiment',
-    author: '-',
+    author: '',
     journal: 'British Nationalist Party',
     year: '2004',
     link: '/assets/papers/UKGangRape.pdf',
@@ -303,7 +303,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'Multicultralist Lies',
-    author: '-',
+    author: '',
     journal: 'Nationalist Publications',
     year: '1998',
     link: '/assets/papers/MulticultralistLies.pdf',
@@ -348,6 +348,14 @@ const PAPERS: ResearchPaper[] = [
     year: '1997',
     link: '/assets/papers/ColonyAndEmpire.pdf',
     backup: '/assets/papers/ColonyAndEmpire.pdf'
+  },
+  {
+    title: 'The Fight For Australian Culture',
+    author: 'Andrew "Banjo" Patterson',
+    journal: '',
+    year: '',
+    link: '/assets/papers/FightForAustralianCulture.pdf',
+    backup: '/assets/papers/FightForAustralianCulture.pdf'
   }
 ];
 
