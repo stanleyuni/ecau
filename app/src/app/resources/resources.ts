@@ -340,7 +340,14 @@ const PAPERS: ResearchPaper[] = [
     year: '1998',
     link: '/assets/papers/TheDemiseOfTheWhiteAustraliaPolicy.pdf',
     backup: '/assets/papers/TheDemiseOfTheWhiteAustraliaPolicy.pdf'
-
+  },
+  {
+    title: 'Colony and Empire',
+    author: 'Thomas Ross',
+    journal: 'Nationalist Publications',
+    year: '1997',
+    link: '/assets/papers/ColonyAndEmpire.pdf',
+    backup: '/assets/papers/ColonyAndEmpire.pdf'
   }
 ];
 
