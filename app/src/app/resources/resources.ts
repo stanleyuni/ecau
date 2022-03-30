@@ -316,6 +316,31 @@ const PAPERS: ResearchPaper[] = [
     year: '1993',
     link: '/assets/papers/EurekaStockade.pdf',
     backup: '/assets/papers/EurekaStockade.pdf'
+  },
+  {
+    title: 'Ethnic Block Voting',
+    author: 'Dr Rodney Spencer',
+    journal: 'Australian Civil Liberties Union',
+    year: '2004',
+    link: '/assets/papers/EthnicBlockVoting.pdf',
+    backup: '/assets/papers/EthnicBlockVoting.pdf'
+  },
+  {
+    title: 'Australia\'s Peril',
+    author: 'Henry Lawson',
+    journal: 'Poetry',
+    year: '1905',
+    link: '/assets/papers/AustraliasPeril.pdf',
+    backup: '/assets/papers/AustraliasPeril.pdf'
+  },
+  {
+    title: 'The Demise Of The White Australia Policy',
+    author: 'Chris Anderson',
+    journal: 'Nationalist Publications',
+    year: '1998',
+    link: '/assets/papers/TheDemiseOfTheWhiteAustraliaPolicy.pdf',
+    backup: '/assets/papers/TheDemiseOfTheWhiteAustraliaPolicy.pdf'
+
   }
 ];
 
