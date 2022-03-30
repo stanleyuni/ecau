@@ -300,6 +300,22 @@ const PAPERS: ResearchPaper[] = [
     year: '2004',
     link: '/assets/papers/UKGangRape.pdf',
     backup: '/assets/papers/UKGangRape.pdf'
+  },
+  {
+    title: 'Multicultralist Lies',
+    author: '-',
+    journal: 'Nationalist Publications',
+    year: '1998',
+    link: '/assets/papers/MulticultralistLies.pdf',
+    backup: '/assets/papers/MulticultralistLies.pdf'
+  },
+  {
+    title: 'Eureka Stockade: Birth of the Australian National Idea',
+    author: 'Brian Knight',
+    journal: 'Nationalist Publications',
+    year: '1993',
+    link: '/assets/papers/EurekaStockade.pdf',
+    backup: '/assets/papers/EurekaStockade.pdf'
   }
 ];
 
