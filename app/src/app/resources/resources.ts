@@ -527,15 +527,15 @@ const PAPERS: ResearchPaper[] = [
     link: '/assets/images/WAP/JackBeasley.png',
     backup: '/assets/images/WAP/JackBeasley.png'
   },
-  {
-    title: 'Re-Thinking the White Australia Policy',
-    author: 'A. P. Elkin',
-    category: 'Article',
-    journal: 'The Australian Quarterly',
-    year: '1945',
-    link: 'https://doi.org/10.2307/20631287',
-    backup: '/assets/papers/elkin1945.pdf'
-  },
+  // {
+  //   title: 'Re-Thinking the White Australia Policy',
+  //   author: 'A. P. Elkin',
+  //   category: 'Article',
+  //   journal: 'The Australian Quarterly',
+  //   year: '1945',
+  //   link: 'https://doi.org/10.2307/20631287',
+  //   backup: '/assets/papers/elkin1945.pdf'
+  // },
   {
     title: 'The White Australia Policy',
     author: 'James Ronald',
@@ -697,6 +697,15 @@ const PAPERS: ResearchPaper[] = [
     year: '',
     link: '/assets/images/WAP/WilliamSpence.png',
     backup: '/assets/images/WAP/WilliamSpence.png'
+  },
+  {
+    title: 'Australia Must Stay White',
+    author: 'Daily Mirror',
+    category: 'News',
+    journal: 'Daily Mirror',
+    year: '1967',
+    link: '/assets/images/WAP/WhiteAustraliaMustStay.jpg',
+    backup: '/assets/images/WAP/WhiteAustraliaMustStay.jpg'
   }
 ];
 
