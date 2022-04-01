@@ -7,6 +7,7 @@ export interface ResearchPaper {
   title: string;
   author: string;
   journal: string;
+  category: string;
   year: string;
   link: string;
   backup: string;
@@ -16,6 +17,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'Psychology and White Ethnocentrism',
     author: 'Kevin MacDonald',
+    category: 'Research',
     journal: 'The Occidental Quarterly',
     year: '2006',
     link: 'http://www.kevinmacdonald.net/WhiteEthnocentrism.pdf',
@@ -24,6 +26,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'The War on White Australia',
     author: 'Brenton Sanderson',
+    category: 'Article',
     journal: 'Occidental Observer',
     year: '2012',
     link: '/assets/papers/TheWaronWhiteAustralia-BrentonSanderson.pdf',
@@ -32,6 +35,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'The White Australia Policy In Retrospect: Racism Or Realism?',
     author: 'Andrew Fraser',
+    category: 'Review',
     journal: 'The Occidental Quarterly',
     year: '2005',
     link: 'https://www.academia.edu/44978186/THE_WHITE_AUSTRALIA_POLICY_IN_RETROSPECT_RACISM_OR_REALISM',
@@ -39,8 +43,9 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'Demise Of The White Australia Policy',
-    journal: '',
     author: 'Dr Charles Fahey',
+    category: 'Research',
+    journal: '',
     year:  '',
     link: 'https://www.christianidentityaustralia.org/reads/Demise-Policy.pdf',
     backup: '/assets/papers/DemiseOfTheWhiteAustraliaPolicy.pdf'
@@ -48,6 +53,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'I Stand By White Australia',
     author: 'Arthur Calwell',
+    category: 'Letter',
     journal: 'Australian Labor Party',
     year: '1949',
     link: '/assets/papers/ArthurCalwell-IStandByWhiteAustralia.pdf',
@@ -56,6 +62,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'Aboriginal Cannibalism In Australia',
     author: '',
+    category: 'Composition',
     journal: '',
     year: '',
     link: '/assets/papers/AboriginalCannibalismInAustralia.pdf',
@@ -64,6 +71,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'Some Notes on Aboriginal Cannibalism',
     author: 'E. G. Heap',
+    category: 'Research',
     journal: 'Queensland Heritage',
     year: '1967',
     link: 'https://www.textqueensland.com.au/item/article/02e44ec586af038cffc507238ef49f56',
@@ -72,6 +80,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'Politics Essay: White Australia Policy',
     author: '',
+    category: 'Article',
     journal: '',
     year: '',
     link: 'https://www.christianidentityaustralia.org/reads/White-Policy.pdf',
@@ -80,6 +89,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'Rehabilitating (and Denaturing) the White Australia Policy',
     author: 'Andrew Fraser',
+    category: 'Article',
     journal: 'American Renaissance',
     year: '2005',
     link: 'https://www.academia.edu/44985804/Rehabilitating_and_Denaturing_the_White_Australia_Policy',
@@ -88,6 +98,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'Wanted: More race realism, less moralistic fallacy',
     author: ' J. P. Rushton &  A. R. Jensen',
+    category: 'Research',
     journal: 'American Psychological Association',
     year: '2005',
     link: 'https://www1.udel.edu/educ/gottfredson/30years/Rushton-Jensen-reply-to-commentaries-on-30years.pdf',
@@ -96,6 +107,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'The bonobo genome compared with the chimpanzee and human genomes',
     author: 'Prüfer et al',
+    category: 'Research',
     journal: 'Nature',
     year: '2012',
     link: 'https://www1.udel.edu/educ/gottfredson/30years/Rushton-Jensen-reply-to-commentaries-on-30years.pdf',
@@ -104,6 +116,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'Patterns of intergroup contact in public spaces: micro-ecology of segregation in Australian communities',
     author: 'Priest et al',
+    category: 'Research',
     journal: 'Societies',
     year: '2014',
     link: 'https://dro.deakin.edu.au/eserv/DU:30072938/paradies-patternsof-2014.pdf',
@@ -112,6 +125,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'The evolution of ethnocentric behavior',
     author: 'R. Axelrod & R. A. Hammond',
+    category: 'Research',
     journal: 'Midwest Political Science Convention',
     year: '2003',
     link: 'https://dro.deakin.edu.au/eserv/DU:30072938/paradies-patternsof-2014.pdf',
@@ -120,6 +134,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'The (in)compatibility of diversity and sense of community',
     author: 'Z. P Neal & J. W. Neal',
+    category: 'Research',
     journal: 'American Journal of Community Psychology',
     year: '2013',
     link: 'https://pubmed.ncbi.nlm.nih.gov/24198048/',
@@ -128,6 +143,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'Ethnic Diversity and Social Trust: A Narrative and Meta-Analytical Review',
     author: 'Dinesen et al',
+    category: 'Research',
     journal: 'Annual Review of Political Science',
     year: '2020',
     link: 'https://doi.org/10.1146/annurev-polisci-052918-020708',
@@ -136,6 +152,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'Interracial Roommate Relationships: An Experimental Field Test of the Contact Hypothesis',
     author: 'N. J. Shook & R. H. Fazio',
+    category: 'Research',
     journal: 'Psychological Science',
     year: '2008',
     link: 'https://doi.org/10.1111/j.1467-9280.2008.02147.x',
@@ -144,6 +161,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'On the Edge of Diversity: Bringing African Americans and Latinos Together in a Neighborhood Group',
     author: 'J. C. Berryhill & J. A. Linney',
+    category: 'Research',
     journal: 'American Journal of Community Psychology',
     year: '2008',
     link: 'https://doi.org/10.1007/s10464-006-9012-0',
@@ -152,6 +170,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'Different level of population differentiation among human genes',
     author: 'D. Wu & Y. Zhang',
+    category: 'Research',
     journal: 'BMC Evolutionary Biology',
     year: '2011',
     link: 'http://www.biomedcentral.com/1471-2148/11/16',
@@ -160,6 +179,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'The Gender-Equality Paradox in Science, Technology, Engineering, and Mathematics Education',
     author: 'G. Stoet & D. Geary',
+    category: 'Research',
     journal: 'Psychological Science',
     year: '2018',
     link: 'http://doi.org/10.1177/0956797617741719',
@@ -168,6 +188,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'The Dismantling of the White Australia Policy: Elite Conspiracy or Will of the Australian People?',
     author: 'Gwenda Tavan',
+    category: 'Article',
     journal: 'Australian Journal of Political Science',
     year: '2004',
     link: 'http://doi.org/10.1080/1036114042000205678',
@@ -176,6 +197,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'One Nation Federal Policy Guide 2022',
     author: 'Pauline Hanson',
+    category: 'Policy',
     journal: 'One Nation',
     year: '2022',
     link: '/assets/papers/OneNationPolicyGuide2022-compressed.pdf',
@@ -184,6 +206,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'The Asianisation of Australia',
     author: 'Chris Anderson',
+    category: 'Article',
     journal: 'Nationalist Publications',
     year: '1998',
     link: '/assets/papers/TheAsianisationOfAustralia.pdf',
@@ -192,6 +215,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'Mass Immigration: Undermining Australia\'s Way of Life',
     author: 'Ryan T. Jones',
+    category: 'Article',
     journal: 'Nationalist Publications',
     year: '1996',
     link: '/assets/papers/MassImmigration.pdf',
@@ -200,6 +224,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'Illegals, Overstayers and Unwelcome Guests',
     author: 'Dr Rodney Spencer',
+    category: 'Article',
     journal: 'Nationalist Publications',
     year: '2001',
     link: '/assets/papers/IllegalsOverstayers.pdf',
@@ -208,6 +233,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'Keep White the Strain',
     author: '',
+    category: 'Poetry',
     journal: 'Poetry',
     year: '1800\'s',
     link: '/assets/papers/KeepWhiteTheStrain.pdf',
@@ -216,6 +242,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'Chinese Immigration',
     author: 'Chas R. Thatcher',
+    category: 'Poetry',
     journal: 'Poetry',
     year: '1857',
     link: '/assets/papers/ChineseImmigration.pdf',
@@ -225,6 +252,7 @@ const PAPERS: ResearchPaper[] = [
     title: 'A Bushman\'s Song',
     author: 'Andrew "Banjo" Patterson',
     journal: 'Poetry',
+    category: 'Poetry',
     year: '1892',
     link: '/assets/papers/BushmanSong.pdf',
     backup: '/assets/papers/BushmanSong.pdf'
@@ -233,6 +261,7 @@ const PAPERS: ResearchPaper[] = [
     title: 'Freedom on the Wallaby',
     author: 'Henry Lawson',
     journal: 'Poetry',
+    category: 'Poetry',
     year: '1891',
     link: '/assets/papers/FreedomOnTheWallaby.pdf',
     backup: '/assets/papers/FreedomOnTheWallaby.pdf'
@@ -241,6 +270,7 @@ const PAPERS: ResearchPaper[] = [
     title: 'Chinese Emigration',
     author: 'George Chanson',
     journal: 'Poetry',
+    category: 'Poetry',
     year: '1869',
     link: '/assets/papers/ChineseEmigration.pdf',
     backup: '/assets/papes/ChineseEmigration.pdf'
@@ -249,6 +279,7 @@ const PAPERS: ResearchPaper[] = [
     title: 'The Song That Men Should Sing',
     author: 'Kenneth Mackay',
     journal: 'Poetry',
+    category: 'Poetry',
     year: '1899',
     link: '/assets/papers/ASongMenShouldSing.pdf',
     backup: '/assets/papers/ASongMenShouldSing.pdf'
@@ -257,6 +288,7 @@ const PAPERS: ResearchPaper[] = [
     title: 'Every Man Should Have A Rifle',
     author: 'Henry Lawson',
     journal: 'Poetry',
+    category: 'Poetry',
     year: '1907',
     link: '/assets/papers/EveryManShouldHaveARifle.pdf',
     backup: '/assets/papers/EveryManShouldHaveARifle.pdf'
@@ -264,6 +296,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'The Real Words of Islam',
     author: 'Andrew Bolt',
+    category: 'News',
     journal: 'Herald Sun',
     year: '2001',
     link: '/assets/papers/TheRealWordsOfIslam.pdf',
@@ -272,6 +305,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'Winning Conditions for Australian Nationalism',
     author: 'Graema Campbell',
+    category: 'Article',
     journal: '',
     year: '2001',
     link: '/assets/papers/WinningConditions.pdf',
@@ -280,6 +314,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'The politics of race and immigration in Australia: One Nation voting in the 1998 Election',
     author: 'McAllister et al',
+    category: 'Research',
     journal: 'Ethnic and Racial Studies',
     year: '2002',
     link: 'https://www.tandfonline.com/doi/abs/10.1080/0141987022000000286',
@@ -288,6 +323,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'We Only Want Those Prepared To Be Like Us',
     author: 'John Stone',
+    category: 'Letter',
     journal: 'The Australian',
     year: '2001',
     link: '/assets/papers/WeOnlyWantThosePreparedToBeLikeUs.pdf',
@@ -296,6 +332,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'UK: Rising Gang Rapes of White Girls a Byproduct of Multiracialist Experiment',
     author: '',
+    category: 'Letter',
     journal: 'British Nationalist Party',
     year: '2004',
     link: '/assets/papers/UKGangRape.pdf',
@@ -304,6 +341,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'Multicultralist Lies',
     author: '',
+    category: 'Article',
     journal: 'Nationalist Publications',
     year: '1998',
     link: '/assets/papers/MulticultralistLies.pdf',
@@ -312,6 +350,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'Eureka Stockade: Birth of the Australian National Idea',
     author: 'Brian Knight',
+    category: 'Article',
     journal: 'Nationalist Publications',
     year: '1993',
     link: '/assets/papers/EurekaStockade.pdf',
@@ -320,6 +359,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'Ethnic Block Voting',
     author: 'Dr Rodney Spencer',
+    category: 'Article',
     journal: 'Australian Civil Liberties Union',
     year: '2004',
     link: '/assets/papers/EthnicBlockVoting.pdf',
@@ -329,6 +369,7 @@ const PAPERS: ResearchPaper[] = [
     title: 'Australia\'s Peril',
     author: 'Henry Lawson',
     journal: 'Poetry',
+    category: 'Poetry',
     year: '1905',
     link: '/assets/papers/AustraliasPeril.pdf',
     backup: '/assets/papers/AustraliasPeril.pdf'
@@ -336,6 +377,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'The Demise Of The White Australia Policy',
     author: 'Chris Anderson',
+    category: 'Article',
     journal: 'Nationalist Publications',
     year: '1998',
     link: '/assets/papers/TheDemiseOfTheWhiteAustraliaPolicy.pdf',
@@ -344,6 +386,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'Colony and Empire',
     author: 'Thomas Ross',
+    category: 'Article',
     journal: 'Nationalist Publications',
     year: '1997',
     link: '/assets/papers/ColonyAndEmpire.pdf',
@@ -351,7 +394,8 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'The Fight For Australian Culture',
-    author: 'Andrew "Banjo" Patterson',
+    author: 'Andrew Patterson',
+    category: 'Article',
     journal: '',
     year: '',
     link: '/assets/papers/FightForAustralianCulture.pdf',
@@ -360,10 +404,299 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'The Menace of Multiculturalism',
     author: 'Cameron McKenzie',
+    category: 'Article',
     journal: '',
     year: '1997',
     link: '/assets/papers/TheMenaceofMulticulturalism.pdf',
     backup: '/assets/papers/TheMenaceofMulticulturalism.pdf'
+  },
+  {
+    title: 'Freedom Manifesto',
+    author: 'Liberal Democrat Party',
+    journal: '',
+    category: 'Policy',
+    year: '2022',
+    link: '/assets/papers/LDPFreedomManifesto-compressed.pdf',
+    backup: '/assets/papers/LDPFreedomManifesto-compressed.pdf'
+  },
+  {
+    title: 'Voice of the People: The White Australia Policy',
+    author: 'Four Corners',
+    journal: 'ABC',
+    category: 'Video',
+    year: '1962',
+    link: 'https://www.youtube.com/watch?v=6zb8yLammA0',
+    backup: '/assets/videos/VoiceofthePeopleTheWhiteAustraliaPolicy1962.mp4'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'Sir Robert Menzies',
+    journal: 'Video',
+    category: 'Video',
+    year: '',
+    link: 'https://www.youtube.com/watch?v=JhvmsV9bnxQ',
+    backup: '/assets/videos/SirRobertMenziesontheWhiteAustraliaPolicy.mp4'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'Alfred Deakin',
+    journal: 'Image',
+    category: 'Image',
+    year: '1903',
+    link: '/assets/images/WAP/AlfredDeakin.png',
+    backup: '/assets/images/WAP/AlfredDeakin.png'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'Andrew Fisher',
+    journal: 'Image',
+    category: 'Image',
+    year: '1913',
+    link: '/assets/images/WAP/AndrewFisher.png',
+    backup: '/assest/images/WAP/AndrewFisher.png'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'Andrew Fraser',
+    journal: 'Image',
+    category: 'Image',
+    year: '2005',
+    link: '/assets/images/WAP/AndrewFraser.png',
+    backup: '/assest/images/WAP/AndrewFraser.png'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'Arthur Calwell',
+    journal: 'Image',
+    category: 'Image',
+    year: '1972',
+    link: '/assets/images/WAP/ArthurCalwell.jpg',
+    backup: '/assets/images/WAP/ArthurCalwell.jpg'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'Billy Hughes',
+    journal: 'Image',
+    category: 'Image',
+    year: '1922',
+    link: '/assets/images/WAP/BillyHughes.png',
+    backup: '/assets/images/WAP/BillyHughes.png'
+  },
+  {
+    title: 'Election Speech',
+    author: 'Alfred Deakin',
+    journal: 'Speeches',
+    category: 'Speech',
+    year: '1903',
+    link: '/assets/papers/AlfredDeakinWhiteAustralia.pdf',
+    backup: '/assets/papers/AlfredDeakinWhiteAustralia.pdf'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'Fraser Anning',
+    journal: 'Image',
+    category: 'Image',
+    year: '2018',
+    link: '/assets/images/WAP/FraserAnning.png',
+    backup: '/assets/images/WAP/FraserAnning.png'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'George Reid',
+    journal: 'Image',
+    category: 'Image',
+    year: '1903',
+    link: '/assets/images/WAP/GeorgeReid.png',
+    backup: '/assets/images/WAP/GeorgeReid.png'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'Herbert Evatt',
+    journal: 'Image',
+    category: 'Image',
+    year: '1945',
+    link: '/assets/images/WAP/HerbertEvatt.png',
+    backup: '/assets/images/WAP/HerbertEvatt.png'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'Jack Beasley',
+    journal: 'Image',
+    category: 'Image',
+    year: '',
+    link: '/assets/images/WAP/JackBeasley.png',
+    backup: '/assets/images/WAP/JackBeasley.png'
+  },
+  {
+    title: 'Re-Thinking the White Australia Policy',
+    author: 'A. P. Elkin',
+    category: 'Article',
+    journal: 'The Australian Quarterly',
+    year: '1945',
+    link: 'https://doi.org/10.2307/20631287',
+    backup: '/assets/papers/elkin1945.pdf'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'James Ronald',
+    category: 'Image',
+    journal: 'Image',
+    year: '1901',
+    link: '/assets/images/WAP/JamesRonald.png',
+    backup: '/assets/images/WAP/JamesRonald.png'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'John Curtin',
+    category: 'Image',
+    journal: 'Image',
+    year: '1942',
+    link: '/assets/images/WAP/JohnCurtin.png',
+    backup: '/assets/images/WAP/JohnCurtin.png'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'John Forrest',
+    category: 'Image',
+    journal: 'Image',
+    year: '1898',
+    link: '/assets/images/WAP/JohnForrest.png',
+    backup: '/assets/images/WAP/JohnForrest.png'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'Joseph Cook',
+    category: 'Image',
+    journal: 'Image',
+    year: '1913',
+    link: '/assets/images/WAP/JosephCook.png',
+    backup: '/assets/images/WAP/JosephCook.png',
+  },
+  {
+    title: 'Immigration',
+    author: 'John Stone',
+    category: 'Image',
+    journal: 'Image',
+    year: '1988',
+    link: '/assets/images/WAP/JohnStone.png',
+    backup: '/assets/images/WAP/JohnStone.png'
+  },
+  {
+    title: 'Immigration',
+    author: 'Ned Kelly',
+    category: 'Image',
+    journal: 'Image',
+    year: '1879',
+    link: '/assets/images/WAP/NedKelly.png',
+    backup: '/assets/images/WAP/NedKelly.png'
+  },
+  {
+    title: 'Multicultralism',
+    author: 'Pauline Hanson',
+    category: 'Image',
+    journal: 'Image',
+    year: '1996',
+    link: '/assets/images/WAP/PaulineHanson.jpg',
+    backup: '/assets/images/WAP/PaulineHanson.jpg'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'Sir Edmund Barton',
+    category: 'Image',
+    journal: 'Image',
+    year: '1901',
+    link: '/assets/images/WAP/SirEdmundBarton.jpg',
+    backup: '/assets/images/WAP/SirEdmundBarton.jpg'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'Stanley Bruce',
+    category: 'Image',
+    journal: 'Image',
+    year: '1925',
+    link: '/assets/images/WAP/StanleyBruce.png',
+    backup: '/assets/images/WAP/StanleyBruce.png'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'Sir Robert Menzies',
+    category: 'Image',
+    journal: 'Image',
+    year: '',
+    link: '/assets/images/WAP/SirRobertMenzies.png',
+    backup: '/assets/images/WAP/SirRobertMenzies.png'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'Sir William Keith Hancock',
+    category: 'Image',
+    journal: 'Image',
+    year: '1930',
+    link: '/assets/images/WAP/SirWilliamKeithHancock.png',
+    backup: '/assets/images/WAP/SirWilliamKeithHancock.png'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'John C Watson',
+    category: 'Image',
+    journal: 'Image',
+    year: '1901',
+    link: '/assets/images/WAP/JohnCWatson.png',
+    backup: '/assets/images/WAP/JohnCWatson.png'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'King O\'Malley',
+    category: 'Image',
+    journal: 'Image',
+    year: '1901',
+    link: '/assets/images/WAP/KingOMalley.png',
+    backup: '/assets/images/WAP/KingOMalley.png'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'Major-General Gravile Ryrie',
+    category: 'Image',
+    journal: 'Images',
+    year: '',
+    link: '/assets/images/WAP/MajorGeneralGranvileRyrie.png',
+    backup: '/assets/images/WAP/MajorGeneralGranvileRyrie.png'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'James C. Stewart',
+    category: 'Image',
+    journal: 'Image',
+    year: '1901',
+    link: '/assets/images/WAP/JamesCStewart.png',
+    backup: '/assets/images/WAP/JamesCStewart.png'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'John Thomas Lang',
+    category: 'Image',
+    journal: 'Image',
+    year: '1956',
+    link: '/assets/images/WAP/JohnThomasLang.png',
+    backup: '/assets/images/WAP/JohnThomasLang.png'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'John MacDonald',
+    category: 'Image',
+    journal: 'Image',
+    year: '1922',
+    link: '/assets/images/WAP/JohnMacDonald.png',
+    backup: '/assets/images/WAP/JohnMacDonald.png'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'William Spence',
+    category: 'Image',
+    journal: 'Image',
+    year: '',
+    link: '/assets/images/WAP/WilliamSpence.png',
+    backup: '/assets/images/WAP/WilliamSpence.png'
   }
 ];
 
@@ -376,7 +709,7 @@ const PAPERS: ResearchPaper[] = [
   templateUrl: 'resources.html',
 })
 export class ResourcesComponent implements AfterViewInit {
-  public columns: string[] = ['title', 'author', 'journal', 'year'];
+  public columns: string[] = ['title', 'author', 'category', 'year'];
   public dataSource: MatTableDataSource<ResearchPaper>;
 
   @ViewChild(MatPaginator) paginator!: MatPaginator;
