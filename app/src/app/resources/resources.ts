@@ -304,7 +304,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'Winning Conditions for Australian Nationalism',
-    author: 'Graema Campbell',
+    author: 'Graeme Campbell',
     category: 'Article',
     journal: '',
     year: '2001',
@@ -655,7 +655,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'The White Australia Policy',
-    author: 'Major-General Gravile Ryrie',
+    author: 'Major-General Sir Gravile de Laune Ryrie',
     category: 'Image',
     journal: 'Images',
     year: '',
@@ -706,6 +706,33 @@ const PAPERS: ResearchPaper[] = [
     year: '1967',
     link: '/assets/images/WAP/WhiteAustraliaMustStay.jpg',
     backup: '/assets/images/WAP/WhiteAustraliaMustStay.jpg'
+  },
+  {
+    title: 'Danger for Australia',
+    author: 'Arthur Calwell',
+    category: 'Policy',
+    journal: 'Australian Labor Party',
+    year: '',
+    link: '/assets/papers/Danger-for-Australia-by-Arthur-Calwell.pdf',
+    backup: '/assets/papers/Danger-for-Australia-by-Arthur-Calwell.pdf'
+  },
+  {
+    title: 'Constiution of the Australia First Party',
+    author: 'Australia First Party',
+    category: 'Policy',
+    journal: 'Policy',
+    year: '2012',
+    link: '/assets/papers/AustraliaFirstPartyConstitution.pdf',
+    backup: '/assets/papers/AustraliaFirstPartyConstitution.pdf'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'Graeme Campbell',
+    category: 'Image',
+    journal: 'Image',
+    year: '',
+    link: '/assets/images/WAP/GraemeCampbell.png',
+    backup: '/assets/images/WAP/GraemeCampbell.png'
   }
 ];
 
