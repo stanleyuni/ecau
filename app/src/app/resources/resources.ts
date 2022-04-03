@@ -34,7 +34,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'The White Australia Policy In Retrospect: Racism Or Realism?',
-    author: 'Andrew Fraser',
+    author: 'Professor Andrew Fraser',
     category: 'Review',
     journal: 'The Occidental Quarterly',
     year: '2005',
@@ -88,7 +88,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'Rehabilitating (and Denaturing) the White Australia Policy',
-    author: 'Andrew Fraser',
+    author: 'Professor Andrew Fraser',
     category: 'Article',
     journal: 'American Renaissance',
     year: '2005',
@@ -457,7 +457,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'The White Australia Policy',
-    author: 'Andrew Fraser',
+    author: 'Professor Andrew Fraser',
     journal: 'Image',
     category: 'Image',
     year: '2005',
@@ -733,6 +733,96 @@ const PAPERS: ResearchPaper[] = [
     year: '',
     link: '/assets/images/WAP/GraemeCampbell.png',
     backup: '/assets/images/WAP/GraemeCampbell.png'
+  },
+  {
+    title: 'The Liberal Party and its Satellites',
+    author: 'Saleam et al',
+    category: 'Opinion',
+    journal: 'Australia First Party',
+    year: '',
+    link: '/assets/papers/LiberalPartySatellites.pdf',
+    backup: '/assets/papers/LiberalPartySatellites.pdf'
+  },
+  {
+    title: 'Low Fertility Preservation Utilization Among Transgender Youth',
+    author: 'Nahata et al',
+    category: 'Research',
+    journal: 'Journal of Adolescent Health',
+    year: '2017',
+    link: 'http://dx.doi.org/10.1016/j.jadohealth.2016.12.012',
+    backup: '/assets/papers/nahata2017.pdf'
+  },
+  {
+    title: 'Long-Term Follow-Up of Transsexual Persons Undergoing Sex Reassignment Surgery: Cohort Study in Sweden',
+    author: 'Dhejne et al',
+    category: 'Research',
+    journal: 'Plos One',
+    year: '2011',
+    link: 'https://doi.org/10.1371/journal.pone.0016885',
+    backup: '/assets/papers/dhejne2011.pdf',
+  },
+  {
+    title: 'Attachment Patterns and Complex Trauma in a Sample of Adults Diagnosed with Gender Dysphoria',
+    author: 'Giovanardi et al',
+    category: 'Research',
+    year: '2018',
+    journal: 'Frontiers in Psychology',
+    link: 'https://doi.org/10.3389/fpsyg.2018.00060',
+    backup: '/assets/papers/giovanardi2018.pdf'
+  },
+  {
+    title: 'Transgender hysteria',
+    author: 'Professor Dianna Kenny',
+    category: 'Research',
+    year: '',
+    journal: '',
+    link: 'https://www.diannakenny.com.au/k-blog/itemlist/tag/Transgender%20hysteria.html',
+    backup: '/assets/papers/TransgenderHysteria.pdf'
+  },
+  {
+    title: 'Parent reports of adolescents and young adults perceived to show signs of a rapid onset of gender dysphoria',
+    author: 'Lisa Littman',
+    category: 'Research',
+    journal: 'Plos One',
+    year: '2018',
+    link: 'https://doi.org/10.1371/journal.pone.0202330',
+    backup: '/assets/papers/littman2018.pdf'
+  },
+  {
+    title: 'Transgenderism: A Pathogenic Meme',
+    author: 'Professor Paul McHugh',
+    category: 'Article',
+    journal: 'Public Discourse',
+    year: '2015',
+    link: 'https://www.thepublicdiscourse.com/2015/06/15145/',
+    backup: '/assets/papers/TransgenderismAPathogenicMeme.pdf'
+  },
+  {
+    title: 'Varied Reports of Adult Transgender Suicidality: Synthesizing and Describing the Peer-Reviewed and Gray Literature',
+    author: 'Adams et al',
+    category: 'Review',
+    journal: 'Transgender Health',
+    year: '2017',
+    link: 'https://doi.org/10.1089/trgh.2016.0036',
+    backup: '/assets/papers/adams2017.pdf'
+  },
+  {
+    title: 'Increasing rates of people identifying as transgender presenting to Endocrine Services in the Wellington region',
+    author: 'Delahunt et al',
+    year: '2018',
+    category: 'Research',
+    journal: 'New Zealand Medical Journal',
+    link: 'https://assets-global.website-files.com/5e332a62c703f653182faf47/5e332a62c703f632472fd421_Delahunt-FINAL.pdf',
+    backup: '/assets/papers/'
+  },
+  {
+    title: 'Why are so many females coming out as trans/non-binary?',
+    author: 'Gender Health Query',
+    year: '',
+    category: 'Research',
+    journal: 'Gender Health Query',
+    link: 'https://www.genderhq.org/increase-trans-females-nonbinary-dysphoria',
+    backup: '/assets/papers/WhyTransAndNonBinary.pdf'
   }
 ];
 
