@@ -143,7 +143,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'Ethnic Diversity and Social Trust: A Narrative and Meta-Analytical Review',
     author: 'Dinesen et al',
-    category: 'Research',
+    category: 'Review',
     journal: 'Annual Review of Political Science',
     year: '2020',
     link: 'https://doi.org/10.1146/annurev-polisci-052918-020708',
@@ -823,6 +823,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Gender Health Query',
     link: 'https://www.genderhq.org/increase-trans-females-nonbinary-dysphoria',
     backup: '/assets/papers/WhyTransAndNonBinary.pdf'
+  },
+  {
+    title: 'Two hundred "Six million Jews" allegations from 1900-1945',
+    author: '',
+    category: 'Composition',
+    journal: '',
+    year: '',
+    link: '/assets/papers/6million.pdf',
+    backup: '/assets/papers/6million.pdf'
   }
 ];
 
