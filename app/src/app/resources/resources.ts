@@ -781,7 +781,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'Parent reports of adolescents and young adults perceived to show signs of a rapid onset of gender dysphoria',
-    author: 'Lisa Littman',
+    author: 'Professor Lisa Littman',
     category: 'Research',
     journal: 'Plos One',
     year: '2018',
@@ -832,6 +832,24 @@ const PAPERS: ResearchPaper[] = [
     year: '',
     link: '/assets/papers/6million.pdf',
     backup: '/assets/papers/6million.pdf'
+  },
+  {
+    title: 'Sharia for non-muslims',
+    author: 'Dr Bill Warner',
+    year: '2010',
+    journal: 'Center for the study of political islam',
+    category: 'Article',
+    link: '/assets/papers/sharia.pdf',
+    backup: '/assets/papers/sharia.pdf'
+  },
+  {
+    title: 'THE BAD WAR: The Truth NEVER Taught About World War II',
+    author: 'M. S. King',
+    year: '2015',
+    journal: 'Book',
+    category: 'Book',
+    link: 'https://nanomatic.fi/pdf/Badwar2.pdf',
+    backup: '/assets/papers/Badwar2.pdf'
   }
 ];
 
