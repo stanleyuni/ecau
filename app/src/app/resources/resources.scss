@@ -12,12 +12,6 @@ td.mat-footer-cell:first-of-type {
   padding-left: 12px;
 }
 
-//  > div {
-//   justify-content: center;
-//   margin-left: 45%;
-//   text-align: center;
-// }
-
 :host ::ng-deep th:nth-of-type(2) > div { 
   display: flex;  
   justify-content: center; 

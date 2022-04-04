@@ -1,23 +1,24 @@
-<form class="example-form">
+<!-- <form class="form" (submit)="pushButton($event)"> -->
+<form class="form" (submit)="openSnackBar()">
   <h3>LEAVE FEEDBACK OR ASK A QUESTION</h3>
 
   <br />
   <div class="inputs">
     <mat-form-field appearance="fill" class="input">
       <mat-label>Name</mat-label>
-      <input matInput>
+      <input matInput [(ngModel)]="name" name="name">
     </mat-form-field>
   
     <mat-form-field appearance="fill" class="input">
       <mat-label>Email</mat-label>
-      <input matInput>
+      <input matInput [(ngModel)]="email" name="email" type="email" ngModel email>
     </mat-form-field>
   </div>
 
-  <mat-form-field class="example-full-width" appearance="fill">
+  <mat-form-field class="full-width" appearance="fill">
     <mat-label>Leave a comment</mat-label>
-    <textarea matInput placeholder="Ex. It makes me feel..."></textarea>
+    <textarea matInput [(ngModel)]="message" name="message"></textarea>
   </mat-form-field>
 
-  <button mat-stroked-button (click)="pushButton()">Send</button>
+  <button mat-stroked-button color="primary" type="submit" value="Send">Send</button>
 </form>
