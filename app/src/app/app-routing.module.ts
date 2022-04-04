@@ -28,7 +28,7 @@ const routes: Routes = [
     path: 'resources',
     component: ResourcesComponent,
     data: {
-      title: 'ECAU - Research'
+      title: 'ECAU - Resources'
     }
   },
   {

@@ -862,7 +862,7 @@ const PAPERS: ResearchPaper[] = [
   templateUrl: 'resources.html',
 })
 export class ResourcesComponent implements AfterViewInit {
-  public columns: string[] = ['title', 'author', 'category', 'year'];
+  public displayedColumns: string[] = ['title', 'author', 'category', 'year'];
   public dataSource: MatTableDataSource<ResearchPaper>;
 
   @ViewChild(MatPaginator) paginator!: MatPaginator;
@@ -875,6 +875,7 @@ export class ResourcesComponent implements AfterViewInit {
   ngAfterViewInit() {
     this.dataSource.paginator = this.paginator;
     this.dataSource.sort = this.sort;
+    console.log(document.querySelector('th.author')?.children[0]);
   }
 
   applyFilter(event: Event) {
