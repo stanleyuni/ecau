@@ -871,6 +871,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Book',
     link: 'https://ia803004.us.archive.org/28/items/TheSubversionOfAustralianEducationJMWallace197792pgsEDU.sml/The_Subversion_of_Australian_Education-JM_Wallace-1977-92pgs-EDU.sml.pdf',
     backup: '/assets/papers/TheSubversionOfAustralianEducation.pdf'
+  },
+  {
+    title: 'Brain size, IQ, and racial-group differences: Evidence from musculoskeletal traits',
+    author: 'J.Philippe Rushton & Elizabeth W. Rushton',
+    category: 'Research',
+    journal: 'Intelligence',
+    year: '2003',
+    link: 'https://doi.org/10.1016/S0160-2896(02)00137-X',
+    backup: '/assets/papers/rushton2003'
   }
 ];
 

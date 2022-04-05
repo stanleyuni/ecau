@@ -5,6 +5,7 @@
   },
   "scripts": {
     "start": "cd ./app && npm run start",
-    "deploy": "cd ./app && npm run build && cd .. && firebase deploy"
+    "deploy": "cd ./app && npm run build && cd .. && firebase deploy",
+    "git": "git add . && git commit -m \"update\" && git push"
   }
 }
