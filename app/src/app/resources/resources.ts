@@ -16,7 +16,7 @@ export interface ResearchPaper {
 const PAPERS: ResearchPaper[] = [
   {
     title: 'Psychology and White Ethnocentrism',
-    author: 'Kevin MacDonald',
+    author: 'Professor Kevin MacDonald',
     category: 'Research',
     journal: 'The Occidental Quarterly',
     year: '2006',
@@ -880,6 +880,16 @@ const PAPERS: ResearchPaper[] = [
     year: '2003',
     link: 'https://doi.org/10.1016/S0160-2896(02)00137-X',
     backup: '/assets/papers/rushton2003'
+  },
+  {
+    title: 'The International Jew',
+    author: 'Henry Ford',
+    category: 'Book',
+    journal: 'Book',
+    year: '1920\'s',
+    link: '/assets/papers/TheInternationalJew.pdf',
+    // link: 'https://archive.org/details/TheInternationalJewTheWorldsForemostProblemhenryFord1920s',
+    backup: '/assets/papers/TheInternationalJew.pdf'
   }
 ];
 
