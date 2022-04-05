@@ -862,6 +862,15 @@ const PAPERS: ResearchPaper[] = [
     category: 'Article',
     link: '/assets/papers/TheJewishCentury.pdf',
     backup: '/assets/papers/TheJewishCentury.pdf'
+  },
+  {
+    title: 'The Subversion Of Australian Education',
+    author: 'Marion Wallis',
+    year: '1977',
+    category: 'Book',
+    journal: 'Book',
+    link: 'https://ia803004.us.archive.org/28/items/TheSubversionOfAustralianEducationJMWallace197792pgsEDU.sml/The_Subversion_of_Australian_Education-JM_Wallace-1977-92pgs-EDU.sml.pdf',
+    backup: '/assets/papers/TheSubversionOfAustralianEducation.pdf'
   }
 ];
 
