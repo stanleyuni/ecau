@@ -776,7 +776,8 @@ const PAPERS: ResearchPaper[] = [
     category: 'Research',
     year: '',
     journal: '',
-    link: 'https://www.diannakenny.com.au/k-blog/itemlist/tag/Transgender%20hysteria.html',
+    link: '/assets/papers/TransgenderHysteria.pdf',
+    // link: 'https://www.diannakenny.com.au/k-blog/itemlist/tag/Transgender%20hysteria.html',
     backup: '/assets/papers/TransgenderHysteria.pdf'
   },
   {
@@ -794,7 +795,8 @@ const PAPERS: ResearchPaper[] = [
     category: 'Article',
     journal: 'Public Discourse',
     year: '2015',
-    link: 'https://www.thepublicdiscourse.com/2015/06/15145/',
+    link: '/assets/papers/TransgenderismAPathogenicMeme.pdf',
+    // link: 'https://www.thepublicdiscourse.com/2015/06/15145/',
     backup: '/assets/papers/TransgenderismAPathogenicMeme.pdf'
   },
   {
@@ -813,7 +815,7 @@ const PAPERS: ResearchPaper[] = [
     category: 'Research',
     journal: 'New Zealand Medical Journal',
     link: 'https://assets-global.website-files.com/5e332a62c703f653182faf47/5e332a62c703f632472fd421_Delahunt-FINAL.pdf',
-    backup: '/assets/papers/'
+    backup: '/assets/papers/delahunt2018.pdf'
   },
   {
     title: 'Why are so many females coming out as trans/non-binary?',
@@ -821,7 +823,8 @@ const PAPERS: ResearchPaper[] = [
     year: '',
     category: 'Research',
     journal: 'Gender Health Query',
-    link: 'https://www.genderhq.org/increase-trans-females-nonbinary-dysphoria',
+    link: '/assets/papers/WhyTransAndNonBinary.pdf',
+    // link: 'https://www.genderhq.org/increase-trans-females-nonbinary-dysphoria',
     backup: '/assets/papers/WhyTransAndNonBinary.pdf'
   },
   {
