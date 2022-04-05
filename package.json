@@ -6,6 +6,7 @@
   "scripts": {
     "start": "cd ./app && npm run start",
     "deploy": "cd ./app && npm run build && cd .. && firebase deploy",
-    "git": "git add . && git commit -m \"update\" && git push"
+    "git": "git add . && git commit -m \"update\" && git push",
+    "upload": "npm run git && npm run deploy"
   }
 }
