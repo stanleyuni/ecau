@@ -850,6 +850,15 @@ const PAPERS: ResearchPaper[] = [
     category: 'Book',
     link: 'https://nanomatic.fi/pdf/Badwar2.pdf',
     backup: '/assets/papers/Badwar2.pdf'
+  },
+  {
+    title: 'The Jewish Century: The Chilling Story of Churchill and the Jew',
+    author: 'The Christian Solution',
+    year: '2009',
+    journal: 'Article',
+    category: 'Article',
+    link: '/assets/papers/TheJewishCentury.pdf',
+    backup: '/assets/papers/TheJewishCentury.pdf'
   }
 ];
 
