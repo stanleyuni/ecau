@@ -935,6 +935,15 @@ const PAPERS: ResearchPaper[] = [
     year: '2018',
     link: 'http://www.kevinmacdonald.net/Familial%20Origins-Final.pdf',
     backup: '/assets/papers/FamilialOrigins.pdf'
+  },
+  {
+    title: 'Empire Is Essential To White Australia',
+    author: 'Billy Hughes',
+    category: 'Video',
+    year: '1932',
+    journal: 'Video',
+    link: 'https://www.youtube.com/watch?v=UMtkrgi0JBM',
+    backup: '/assets/videos/EmpireIsEssentialToWhiteAustralia.mp4'
   }
 ];
 
