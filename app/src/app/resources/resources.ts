@@ -901,7 +901,7 @@ const PAPERS: ResearchPaper[] = [
     backup: '/assets/papers/A_History_of_Central_Banking_and_the_Enslavement_of_Mankind_Stephen.pdf'
   },
   {
-    title: 'Dan Andrews Labor Government Encourages 10 year old girls to learn about their fathers ejaculation',
+    title: 'Dan Andrews Labor Government encourages 10 year old girls to learn about their fathers ejaculation',
     author: 'Victorian Parliament',
     category: 'Video',
     journal: 'Video',
