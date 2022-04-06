@@ -890,6 +890,24 @@ const PAPERS: ResearchPaper[] = [
     link: '/assets/papers/TheInternationalJew.pdf',
     // link: 'https://archive.org/details/TheInternationalJewTheWorldsForemostProblemhenryFord1920s',
     backup: '/assets/papers/TheInternationalJew.pdf'
+  },
+  {
+    title: 'A history of central banking and the enslavement of mankind',
+    author: 'Stephen Mitford Goodson',
+    category: 'Book',
+    journal: 'Book',
+    year: '2017',
+    link: 'https://constitutionwatch.com.au/wp-content/uploads/A-History-of-Central-Banking-and-the-Enslavement-of-Mankind-Stephen-Mitford-Goodson.pdf',
+    backup: '/assets/papers/A_History_of_Central_Banking_and_the_Enslavement_of_Mankind_Stephen.pdf'
+  },
+  {
+    title: 'Dan Andrews Labor Government Encourages 10 year old girls to learn about their fathers ejaculation',
+    author: 'Victorian Parliament',
+    category: 'Video',
+    journal: 'Video',
+    year: '2022',
+    link: '/assets/videos/LaborSexEd.mp4',
+    backup: '/assets/videos/LaborSexEd.mp4'
   }
 ];
 
