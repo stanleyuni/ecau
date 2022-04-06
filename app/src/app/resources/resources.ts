@@ -908,6 +908,33 @@ const PAPERS: ResearchPaper[] = [
     year: '2022',
     link: '/assets/videos/LaborSexEd.mp4',
     backup: '/assets/videos/LaborSexEd.mp4'
+  },
+  {
+    title: 'What Makes Western Culture unique?',
+    author: 'Professor Kevin MacDonald',
+    category: 'Article',
+    journal: 'The Occidental Quarterly',
+    year: '2002',
+    link: 'http://www.kevinmacdonald.net/TOQv2n2MacDonald.pdf',
+    backup: '/assets/papers/WhatMakesWesternCultureUnique.pdf'
+  },
+  {
+    title: 'The Evolution of Intelligence',
+    author: 'Professor K. MacDonald & Michael A. Woodley',
+    category: 'Research',
+    journal: 'Encyclopedia of Evolutionary Psychological Science',
+    year: '2016',
+    link: 'http://www.kevinmacdonald.net/EvolutionOfIntelligence.pdf',
+    backup: '/assets/papers/EvolutionOfIntelligence.pdf'
+  },
+  {
+    title: 'The Familial Origins of European Individualism',
+    author: 'Professor Kevin MacDonald',
+    category: 'Article',
+    journal: 'Journal of Social, Political and Economic Studies',
+    year: '2018',
+    link: 'http://www.kevinmacdonald.net/Familial%20Origins-Final.pdf',
+    backup: '/assets/papers/FamilialOrigins.pdf'
   }
 ];
 
