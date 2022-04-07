@@ -944,6 +944,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Video',
     link: 'https://www.youtube.com/watch?v=UMtkrgi0JBM',
     backup: '/assets/videos/EmpireIsEssentialToWhiteAustralia.mp4'
+  },
+  {
+    title: 'Australia for your Son\'s future (Free Immigration for British)',
+    author: 'British Movietone News',
+    year: '1950\'s',
+    category: 'Video',
+    journal: 'Video',
+    link: 'https://www.youtube.com/watch?v=Bvd1-Lw2h1U',
+    backup: '/assets/videos/AustraliaforyourSonsfuture.mp4'
   }
 ];
 
