@@ -3,11 +3,8 @@ node_modules
 app/node_modules
 **/*/.angular
 **/*/node_modules
-<<<<<<< HEAD
-=======
 **/*/.firebase
 .firebase
->>>>>>> 5360c4f (add)
 
 # Compiled output
 **/*/dist
