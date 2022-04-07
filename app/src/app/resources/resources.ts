@@ -953,6 +953,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Video',
     link: 'https://www.youtube.com/watch?v=Bvd1-Lw2h1U',
     backup: '/assets/videos/AustraliaforyourSonsfuture.mp4'
+  },
+  {
+    title: 'Declearation of War Speech',
+    author: 'Robert Menzies',
+    year: '1939',
+    category: 'Video',
+    journal: 'Video',
+    link: 'https://www.youtube.com/watch?v=FZedhB6Olvk',
+    backup: '/assets/videos/RobertMenziesspeech1939DeclarationofWar.mp4'
   }
 ];
 
