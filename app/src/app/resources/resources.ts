@@ -962,6 +962,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Video',
     link: 'https://www.youtube.com/watch?v=FZedhB6Olvk',
     backup: '/assets/videos/RobertMenziesspeech1939DeclarationofWar.mp4'
+  },
+  {
+    title: 'If This Be Treason',
+    author: 'Ian Mudie',
+    year: '1940',
+    category: 'Poetry',
+    journal: 'Poetry',
+    link: '/assets/papers/IfThisBeTreason.pdf',
+    backup: '/assets/papers/IfThisBeTreason.pdf'
   }
 ];
 
