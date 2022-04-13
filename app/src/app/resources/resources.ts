@@ -1034,6 +1034,24 @@ const PAPERS: ResearchPaper[] = [
     journal: 'News',
     link: '/assets/papers/AboriginalChildrenInRapeCrisis.pdf',
     backup: '/assets/papers/AboriginalChildrenInRapeCrisis.pdf'
+  },
+  {
+    title: 'WESTERN FEMINISTS IGNORE “ABORIGINAL RAPE CULTURE”',
+    author: 'AdvanceAustralia.org.au',
+    category: 'Article',
+    journal: 'AdvanceAustralia',
+    year: '',
+    link: '/assets/papers/WesternFeministsIgnoreAboriginalRape.pdf',
+    backup: '/assets/papers/WesternFeministsIgnoreAboriginalRape.pdf'
+  },
+  {
+    title: 'Four part series on Aboriginal communities',
+    author: 'Tony Thomas',
+    category: 'Article',
+    journal: 'Bennelong Papers',
+    year: '2013',
+    link: '/assets/papers/AboriginalCommunities.pdf',
+    backup: '/assets/papers/AboriginalCommunities.pdf'
   }
 ];
 
