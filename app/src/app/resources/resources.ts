@@ -971,6 +971,60 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Poetry',
     link: '/assets/papers/IfThisBeTreason.pdf',
     backup: '/assets/papers/IfThisBeTreason.pdf'
+  },
+  {
+    title: 'Advance Australia Fair [Original]',
+    author: 'Peter Dodds McCormick',
+    year: '1878',
+    category: 'Music',
+    journal: 'Music',
+    link: 'https://www.youtube.com/watch?v=xTaw6oQmRdM',
+    backup: '/assets/music/AdvanceAustraliaFairOriginal.mp4'
+  },
+  {
+    title: 'God Bless Australia',
+    author: 'Jack O\'Hagan',
+    year: '1961',
+    category: 'Music',
+    journal: 'Music',
+    link: 'https://www.youtube.com/watch?v=p6ZRKxen3do',
+    backup: '/assets/music/GodBlessAustralia.mp4'
+  },
+  {
+    title: 'I was only nineteen',
+    author: 'Redgum',
+    year: '1983',
+    category: 'Music',
+    journal: 'Music',
+    link: 'https://www.youtube.com/watch?v=OKZOD6oxamo',
+    backup: '/assets/music/'
+  },
+  {
+    title: 'Black Thursday bushfires in Victoria (Feb 6 1851)',
+    author: 'William Strutt',
+    year: '1864',
+    category: 'Art',
+    journal: 'Art',
+    link: '/assets/images/art/BlackThursday.jpeg',
+    backup: '/assets/images/art/BlackThursday.jpeg'
+  },
+  {
+    title: 'The Opening of the First Parliament of the Commonwealth of Australia',
+    author: 'Tom Roberts',
+    year: '1903',
+    category: 'Art',
+    journal: 'Art',
+    link: '/assets/images/art/BigPicture.jpg',
+    backup: '/assets/images/art/BigPicture.jpg'
+  },
+  {
+    title: 'The Duke of Cornwall and York opening the First Commonwealth Parliament of Australia (May 9th 1901)',
+    author: 'Charles Nutall',
+    year: '1902',
+    category: 'Art',
+    journal: 'Art',
+    link: '/assets/images/art/NutallOpening.jpg', // NutallOpeningBlack.jpg
+    backup: '/assets/images/art/NutallOpening.jpg'
   }
 ];
 
