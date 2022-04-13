@@ -1061,6 +1061,24 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Music',
     link: 'https://www.youtube.com/watch?v=FqtttbbYfSM',
     backup: '/assets/music/WaltzingMatilda.m4a'
+  },
+  {
+    title: 'Bushranger Ned Kelly',
+    author: 'Sidney Nolan',
+    year: '1946',
+    category: 'Art',
+    journal: 'Art',
+    link: '/assets/images/art/NedKelly1946.jpg',
+    backup: '/assets/images/art/NedKelly1946.jpg'
+  },
+  {
+    title: 'The founding of Australia',
+    author: 'Captain Arthur Phillip',
+    year: '1937',
+    category: 'Art',
+    journal: 'Art',
+    link: '/assets/images/art/Australia_Day_Sydney_Cove.jpg',
+    backup: '/assets/images/art/Australia_Day_Sydney_Cove.jpg'
   }
 ];
 
