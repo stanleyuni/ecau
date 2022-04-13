@@ -1052,6 +1052,15 @@ const PAPERS: ResearchPaper[] = [
     year: '2013',
     link: '/assets/papers/AboriginalCommunities.pdf',
     backup: '/assets/papers/AboriginalCommunities.pdf'
+  },
+  {
+    title: 'Waltzing Matilda',
+    author: 'Andrew "Banjo" Patterson',
+    year: '1895',
+    category: 'Music',
+    journal: 'Music',
+    link: 'https://www.youtube.com/watch?v=FqtttbbYfSM',
+    backup: '/assets/music/WaltzingMatilda.m4a'
   }
 ];
 
