@@ -1079,6 +1079,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Art',
     link: '/assets/images/art/Australia_Day_Sydney_Cove.jpg',
     backup: '/assets/images/art/Australia_Day_Sydney_Cove.jpg'
+  },
+  {
+    title: 'Minnesota transracial adoption study',
+    author: 'S. Scarr & R. A. Weinberg',
+    year: '1976',
+    category: 'Research',
+    journal: 'American Psychologist',
+    link: '/assets/papers/MinnesotaTransracialStudy.pdf',
+    backup: '/assets/papers/MinnesotaTransracialStudy.pdf'
   }
 ];
 
