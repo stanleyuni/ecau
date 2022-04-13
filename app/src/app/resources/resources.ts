@@ -331,7 +331,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'UK: Rising Gang Rapes of White Girls a Byproduct of Multiracialist Experiment',
-    author: '',
+    author: 'British Nationalist Party',
     category: 'Letter',
     journal: 'British Nationalist Party',
     year: '2004',
