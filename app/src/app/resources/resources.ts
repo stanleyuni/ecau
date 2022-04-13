@@ -1025,6 +1025,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Art',
     link: '/assets/images/art/NutallOpening.jpg', // NutallOpeningBlack.jpg
     backup: '/assets/images/art/NutallOpening.jpg'
+  },
+  {
+    title: 'Aboriginal children \'in rape crisis\'',
+    author: 'The Sydney Morning Herald',
+    year: '2006',
+    category: 'News',
+    journal: 'News',
+    link: '/assets/papers/AboriginalChildrenInRapeCrisis.pdf',
+    backup: '/assets/papers/AboriginalChildrenInRapeCrisis.pdf'
   }
 ];
 
