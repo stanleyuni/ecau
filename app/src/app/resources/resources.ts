@@ -1088,6 +1088,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'American Psychologist',
     link: '/assets/papers/MinnesotaTransracialStudy.pdf',
     backup: '/assets/papers/MinnesotaTransracialStudy.pdf'
+  },
+  {
+    title: 'Look at life: Immigration to Australia in the 1950\'s',
+    author: 'The Rank Organisation',
+    year: '1960\'s',
+    category: 'Video',
+    journal: 'Video',
+    link: 'https://www.youtube.com/watch?v=8MzGR4OJmGE',
+    backup: '/assets/videos/LookatLifeImmigrationtoAustralia1950s.mp4'
   }
 ];
 
