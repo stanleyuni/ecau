@@ -1097,6 +1097,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Video',
     link: 'https://www.youtube.com/watch?v=8MzGR4OJmGE',
     backup: '/assets/videos/LookatLifeImmigrationtoAustralia1950s.mp4'
+  },
+  {
+    title: 'White Australia Policy Song',
+    author: 'W. E. Naunton &  H. J. W. Gyles',
+    year: '1910',
+    category: 'Music',
+    journal: 'Music',
+    link: 'https://www.youtube.com/watch?v=TiSTEpKtGOQ',
+    backup: '/assets/videos/WhiteAustraliaPolicySong.mp4'
   }
 ];
 
