@@ -837,7 +837,7 @@ const PAPERS: ResearchPaper[] = [
     backup: '/assets/papers/6million.pdf'
   },
   {
-    title: 'Sharia for non-muslims',
+    title: 'Sharia law for non-muslims',
     author: 'Dr Bill Warner',
     year: '2010',
     journal: 'Center for the study of political islam',
