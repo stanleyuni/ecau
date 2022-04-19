@@ -874,7 +874,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'Brain size, IQ, and racial-group differences: Evidence from musculoskeletal traits',
-    author: 'J.Philippe Rushton & Elizabeth W. Rushton',
+    author: 'J. P. Rushton & E. W. Rushton',
     category: 'Research',
     journal: 'Intelligence',
     year: '2003',
@@ -920,7 +920,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'The Evolution of Intelligence',
-    author: 'Professor K. MacDonald & Michael A. Woodley',
+    author: 'Professor K. MacDonald & M. A. Woodley',
     category: 'Research',
     journal: 'Encyclopedia of Evolutionary Psychological Science',
     year: '2016',
