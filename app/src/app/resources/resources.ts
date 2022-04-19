@@ -1106,6 +1106,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Music',
     link: 'https://www.youtube.com/watch?v=TiSTEpKtGOQ',
     backup: '/assets/videos/WhiteAustraliaPolicySong.mp4'
+  },
+  {
+    title: 'Australia\'s Constitution of 1901 with Amendments through 1985',
+    author: 'constituteproject.org',
+    year: '1901',
+    category: 'Policy',
+    journal: 'Policy',
+    link: 'https://www.constituteproject.org/constitution/Australia_1985.pdf?lang=en',
+    backup: '/assets/papers/Australia_1985.pdf'
   }
 ];
 
