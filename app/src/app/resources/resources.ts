@@ -1115,6 +1115,24 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Policy',
     link: 'https://www.constituteproject.org/constitution/Australia_1985.pdf?lang=en',
     backup: '/assets/papers/Australia_1985.pdf'
+  },
+  {
+    title: 'An assessment of intellectual disability among Aboriginal Australians',
+    author: 'E. J. Glasson et al.',
+    year: '2005',
+    category: 'Research',
+    journal: 'Journla of Intellectual Disability Research',
+    link: 'https://doi.org/10.1111/j.1365-2788.2005.00722.x',
+    backup: '/assets/papers/glasson2005.pdf'
+  },
+  {
+    title: 'The Geography of Intelligence',
+    author: 'Richard Lynn',
+    year: '2003',
+    category: 'Research',
+    journal: 'The Scientific Study of General Intelligence',
+    link: 'https://doi.org/10.1016/B978-008043793-4/50045-3',
+    backup: '/assets/papers/lyn2003.pdf'
   }
 ];
 
