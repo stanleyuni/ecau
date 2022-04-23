@@ -1142,6 +1142,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'SSRN Electronic Journal',
     link: 'https://www.researchgate.net/publication/315367933_Ninety_Two_Percent_Examining_the_Birth_Trends_Family_Structure_Economic_Standing_Paternal_Relationships_and_Emotional_Stability_of_Biracial_Children_with_African_American_Fathers',
     backup: '/assets/papers/ninetytwopercent.pdf'
+  },
+  {
+    title: 'Mark Leibler: Powerbroker for Australia\'s Jewish Plutocracy',
+    author: 'Brenton Sanderson',
+    category: 'Article',
+    journal: 'Occidental Observer',
+    year: '2020',
+    link: '/assets/papers/MARK_LEIBLER_BRENTON_SANDERSON.pdf',
+    backup: '/assets/papers/MARK_LEIBLER_BRENTON_SANDERSON.pdf'
   }
 ];
 
