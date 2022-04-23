@@ -1118,7 +1118,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'An assessment of intellectual disability among Aboriginal Australians',
-    author: 'E. J. Glasson et al.',
+    author: 'E. J. Glasson et al',
     year: '2005',
     category: 'Research',
     journal: 'Journla of Intellectual Disability Research',
@@ -1133,6 +1133,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'The Scientific Study of General Intelligence',
     link: 'https://doi.org/10.1016/B978-008043793-4/50045-3',
     backup: '/assets/papers/lyn2003.pdf'
+  },
+  {
+    title: 'Ninety Two Percent: examining birth trends, family structure, economic standing, paternal relationships, and emotional stability of biracial children with African American fathers',
+    author: 'Tiffany Calloway JM',
+    year: '2015',
+    category: 'Research',
+    journal: 'SSRN Electronic Journal',
+    link: 'https://www.researchgate.net/publication/315367933_Ninety_Two_Percent_Examining_the_Birth_Trends_Family_Structure_Economic_Standing_Paternal_Relationships_and_Emotional_Stability_of_Biracial_Children_with_African_American_Fathers',
+    backup: '/assets/papers/ninetytwopercent.pdf'
   }
 ];
 
