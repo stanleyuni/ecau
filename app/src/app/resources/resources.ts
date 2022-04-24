@@ -1136,7 +1136,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'Ninety Two Percent: examining birth trends, family structure, economic standing, paternal relationships, and emotional stability of biracial children with African American fathers',
-    author: 'Tiffany Calloway JM',
+    author: 'Tiffany Calloway',
     year: '2015',
     category: 'Research',
     journal: 'SSRN Electronic Journal',
@@ -1151,6 +1151,15 @@ const PAPERS: ResearchPaper[] = [
     year: '2020',
     link: '/assets/papers/MARK_LEIBLER_BRENTON_SANDERSON.pdf',
     backup: '/assets/papers/MARK_LEIBLER_BRENTON_SANDERSON.pdf'
+  },
+  {
+    title: 'Genetic and Environmental Influences on Individual Differences in Attitudes Toward Homosexuality: An Australian Twin Study',
+    author: 'K. J. H. Verweij et al',
+    year: '2008',
+    journal: 'Springer Open Choice',
+    category: 'Research',
+    link: 'https://doi.org/10.1007/s10519-008-9200-9',
+    backup: '/assets/papers/verweij2008.pdf'
   }
 ];
 
