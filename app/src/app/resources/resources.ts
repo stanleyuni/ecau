@@ -855,15 +855,6 @@ const PAPERS: ResearchPaper[] = [
     backup: '/assets/papers/Badwar2.pdf'
   },
   {
-    title: 'The Jewish Century: The Chilling Story of Churchill and the Jew',
-    author: 'The Christian Solution',
-    year: '2009',
-    journal: 'Article',
-    category: 'Article',
-    link: '/assets/papers/TheJewishCentury.pdf',
-    backup: '/assets/papers/TheJewishCentury.pdf'
-  },
-  {
     title: 'The Subversion Of Australian Education',
     author: 'Marion Wallis',
     year: '1977',
@@ -1118,7 +1109,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'An assessment of intellectual disability among Aboriginal Australians',
-    author: 'E. J. Glasson et al',
+    author: 'Glasson et al',
     year: '2005',
     category: 'Research',
     journal: 'Journla of Intellectual Disability Research',
@@ -1154,7 +1145,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'Genetic and Environmental Influences on Individual Differences in Attitudes Toward Homosexuality: An Australian Twin Study',
-    author: 'K. J. H. Verweij et al',
+    author: 'Verweij et al',
     year: '2008',
     journal: 'Springer Open Choice',
     category: 'Research',
@@ -1181,7 +1172,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'Swedish rape offenders - a latent class analysis',
-    author: 'Professor Ardavan Khoshnood et al',
+    author: 'Professor Khoshnood et al',
     year: '2021',
     category: 'Research',
     journal: 'Forensic Sciences Research',
