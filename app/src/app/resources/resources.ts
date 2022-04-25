@@ -1003,8 +1003,8 @@ const PAPERS: ResearchPaper[] = [
     title: 'Black Thursday bushfires in Victoria (Feb 6 1851)',
     author: 'William Strutt',
     year: '1864',
-    category: 'Art',
-    journal: 'Art',
+    category: 'Artwork',
+    journal: 'Artwork',
     link: '/assets/images/art/BlackThursday.jpeg',
     backup: '/assets/images/art/BlackThursday.jpeg'
   },
@@ -1012,8 +1012,8 @@ const PAPERS: ResearchPaper[] = [
     title: 'The Opening of the First Parliament of the Commonwealth of Australia',
     author: 'Tom Roberts',
     year: '1903',
-    category: 'Art',
-    journal: 'Art',
+    category: 'Artwork',
+    journal: 'Artwork',
     link: '/assets/images/art/BigPicture.jpg',
     backup: '/assets/images/art/BigPicture.jpg'
   },
@@ -1021,8 +1021,8 @@ const PAPERS: ResearchPaper[] = [
     title: 'The Duke of Cornwall and York opening the First Commonwealth Parliament of Australia (May 9th 1901)',
     author: 'Charles Nutall',
     year: '1902',
-    category: 'Art',
-    journal: 'Art',
+    category: 'Artwork',
+    journal: 'Artwork',
     link: '/assets/images/art/NutallOpening.jpg', // NutallOpeningBlack.jpg
     backup: '/assets/images/art/NutallOpening.jpg'
   },
@@ -1066,8 +1066,8 @@ const PAPERS: ResearchPaper[] = [
     title: 'Bushranger Ned Kelly',
     author: 'Sidney Nolan',
     year: '1946',
-    category: 'Art',
-    journal: 'Art',
+    category: 'Artwork',
+    journal: 'Artwork',
     link: '/assets/images/art/NedKelly1946.jpg',
     backup: '/assets/images/art/NedKelly1946.jpg'
   },
@@ -1075,8 +1075,8 @@ const PAPERS: ResearchPaper[] = [
     title: 'The founding of Australia',
     author: 'Captain Arthur Phillip',
     year: '1937',
-    category: 'Art',
-    journal: 'Art',
+    category: 'Artwork',
+    journal: 'Artwork',
     link: '/assets/images/art/Australia_Day_Sydney_Cove.jpg',
     backup: '/assets/images/art/Australia_Day_Sydney_Cove.jpg'
   },
