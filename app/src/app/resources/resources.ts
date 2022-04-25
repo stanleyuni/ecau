@@ -1187,6 +1187,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Forensic Sciences Research',
     link: 'https://doi.org/10.1080/20961790.2020.1868681',
     backup: '/assets/papers/khoshnood2021.pdf'
+  },
+  {
+    title: 'The Jewish Century: Chilling Story of Churchill and the Jews',
+    author: 'The Christian Solution',
+    year: '2009',
+    category: 'Article',
+    journal: 'The Christian Solution',
+    link: '/assets/papers/jewishcentury.pdf',
+    backup: '/assets/papers/jewishcentury.pdf'
   }
 ];
 
