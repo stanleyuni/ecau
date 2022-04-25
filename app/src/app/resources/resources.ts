@@ -1160,6 +1160,33 @@ const PAPERS: ResearchPaper[] = [
     category: 'Research',
     link: 'https://doi.org/10.1007/s10519-008-9200-9',
     backup: '/assets/papers/verweij2008.pdf'
+  },
+  {
+    title: 'What is Islams view on concubines',
+    author: 'Ex-muslims of North America',
+    year: '2020',
+    journal: 'Exmuslims',
+    category: 'Video',
+    link: '/assets/videos/islamconcubines.mp4',
+    backup: '/assets/videos/islamconcubines.mp4'
+  },
+  {
+    title: 'What is Islams view on marital consent',
+    author: 'Ex-muslims of North America',
+    year: '2020',
+    journal: 'Exmuslims',
+    category: 'Video',
+    link: '/assets/videos/islammartialconsent.mp4',
+    backup: '/assets/videos/islammartialconsent.mp4'
+  },
+  {
+    title: 'Swedish rape offenders - a latent class analysis',
+    author: 'Professor Ardavan Khoshnood et al',
+    year: '2021',
+    category: 'Research',
+    journal: 'Forensic Sciences Research',
+    link: 'https://doi.org/10.1080/20961790.2020.1868681',
+    backup: '/assets/papers/khoshnood2021.pdf'
   }
 ];
 
