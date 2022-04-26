@@ -209,8 +209,8 @@ const PAPERS: ResearchPaper[] = [
     category: 'Article',
     journal: 'Nationalist Publications',
     year: '1998',
-    link: '/assets/papers/TheAsianisationOfAustralia.pdf',
-    backup: '/assets/papers/TheAsianisationOfAustralia.pdf'
+    link: '/assets/papers/asianisation.pdf',
+    backup: '/assets/papers/asianisation.pdf'
   },
   {
     title: 'Mass Immigration: Undermining Australia\'s Way of Life',
