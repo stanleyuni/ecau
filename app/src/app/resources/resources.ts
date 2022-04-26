@@ -1232,6 +1232,15 @@ const PAPERS: ResearchPaper[] = [
     year: '1997',
     link: '/assets/papers/Australia2000WhatWillWeTellOurChildren.pdf',
     backup: '/assets/papers/Australia2000WhatWillWeTellOurChildren.pdf'
+  },
+  {
+    title: 'Why is ethnocentrism more common than humanitarianism',
+    author: 'Professor Shultz et al',
+    year: '2009',
+    category: 'Research',
+    journal: 'Cognitive Science Society',
+    link: '/assets/papers/shultz2009.pdf',
+    backup: '/assets/papers/shultz2009.pdf'
   }
 ];
 
