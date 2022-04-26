@@ -1223,6 +1223,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Video',
     link: '/assets/videos/SenatorAnticWhatIsAWoman.mp4',
     backup: '/assets/videos/SenatorAnticWhatIsAWoman.mp4'
+  },
+  {
+    title: 'Australia 2000 - What will we tell our children',
+    author: 'Jeremy Lee',
+    category: 'Book',
+    journal: 'Book',
+    year: '1997',
+    link: '/assets/papers/Australia2000WhatWillWeTellOurChildren.pdf',
+    backup: '/assets/papers/Australia2000WhatWillWeTellOurChildren.pdf'
   }
 ];
 
