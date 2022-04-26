@@ -1187,6 +1187,24 @@ const PAPERS: ResearchPaper[] = [
     journal: 'The Christian Solution',
     link: '/assets/papers/jewishcentury.pdf',
     backup: '/assets/papers/jewishcentury.pdf'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'George W. Holland',
+    year: '1933',
+    category: 'Image',
+    journal: 'Image',
+    link: '/assets/images/WAP/GeorgeHolland.png',
+    backup: '/assets/images/WAP/GeorgeHolland.png'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'Colonel Burford Sampson',
+    year: '1928',
+    category: 'Image',
+    journal: 'Image',
+    link: '/assets/images/WAP/BurfordSampson.png',
+    backup: '/assets/images/WAP/BurfordSampson.png'
   }
 ];
 
