@@ -1205,6 +1205,24 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Image',
     link: '/assets/images/WAP/BurfordSampson.png',
     backup: '/assets/images/WAP/BurfordSampson.png'
+  },
+  {
+    title: 'Australian Labor Party committed to the Socialist International Alliance',
+    year: '1991',
+    author: 'Jeremy Lee',
+    category: 'Video',
+    journal: 'Video',
+    link: '/assets/videos/SocialistInternationalAlliance.mp4',
+    backup: '/assets/videos/SocialistInternationalAlliance.mp4'
+  },
+  {
+    title: 'Australian Department of Health can\'t define what a woman is',
+    author: 'Senator Alex Antic',
+    year: '2022',
+    category: 'Video',
+    journal: 'Video',
+    link: '/assets/videos/SenatorAnticWhatIsAWoman.mp4',
+    backup: '/assets/videos/SenatorAnticWhatIsAWoman.mp4'
   }
 ];
 
