@@ -1250,6 +1250,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'New Century Foundation',
     link: 'https://www.amren.com/wp-content/uploads/2011/12/2005-Color-of-Crime-Report.pdf',
     backup: '/assets/papers/2005-Color-of-Crime-Report.pdf'
+  },
+  {
+    title: 'Swearing allegience tot he Southern Cross (Eureka Stockade)',
+    author: 'Charles A. Doudiet',
+    year: '1854',
+    category: 'Artwork',
+    journal: 'Artwork',
+    link: '/assets/images/art/eurkea_stockade.jpg',
+    backup: '/assets/images/art/eureka_stockade.jpg'
   }
 ];
 
