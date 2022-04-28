@@ -1241,6 +1241,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Cognitive Science Society',
     link: '/assets/papers/shultz2009.pdf',
     backup: '/assets/papers/shultz2009.pdf'
+  },
+  {
+    title: 'The color of crime',
+    author: 'Edwin S. Rubenstein',
+    year: '2005',
+    category: 'Research',
+    journal: 'New Century Foundation',
+    link: 'https://www.amren.com/wp-content/uploads/2011/12/2005-Color-of-Crime-Report.pdf',
+    backup: '/assets/papers/2005-Color-of-Crime-Report.pdf'
   }
 ];
 
