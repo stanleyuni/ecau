@@ -1252,7 +1252,7 @@ const PAPERS: ResearchPaper[] = [
     backup: '/assets/papers/2005-Color-of-Crime-Report.pdf'
   },
   {
-    title: 'Swearing allegience tot he Southern Cross (Eureka Stockade)',
+    title: 'Swearing allegience to the Southern Cross (Eureka Stockade)',
     author: 'Charles A. Doudiet',
     year: '1854',
     category: 'Artwork',
