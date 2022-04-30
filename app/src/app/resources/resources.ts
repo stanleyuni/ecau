@@ -1077,8 +1077,8 @@ const PAPERS: ResearchPaper[] = [
     year: '1976',
     category: 'Research',
     journal: 'American Psychologist',
-    link: '/assets/papers/MinnesotaTransracialStudy.pdf',
-    backup: '/assets/papers/MinnesotaTransracialStudy.pdf'
+    link: 'https://doi.org/10.1037/0003-066X.31.10.726',
+    backup: '/assets/papers/scarr1976.pdf'
   },
   {
     title: 'Look at life: Immigration to Australia in the 1950\'s',
