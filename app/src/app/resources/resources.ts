@@ -1259,6 +1259,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Artwork',
     link: '/assets/images/art/eurkea_stockade.jpg',
     backup: '/assets/images/art/eureka_stockade.jpg'
+  },
+  {
+    title: 'The voice of the Australian flag',
+    author: 'John Downes',
+    year: '1991',
+    category: 'Video',
+    journal: 'Video',
+    link: 'https://www.youtube.com/watch?v=z-d_bqX7Ggk',
+    backup: '/assets/videos/TheVoiceofAustralianflag.mp4'
   }
 ];
 
