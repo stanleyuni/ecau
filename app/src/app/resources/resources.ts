@@ -1268,6 +1268,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Video',
     link: 'https://www.youtube.com/watch?v=z-d_bqX7Ggk',
     backup: '/assets/videos/TheVoiceofAustralianflag.mp4'
+  },
+  {
+    title: 'White Australia saved Australia',
+    author: 'John Thomas Lang',
+    year: '1956',
+    category: 'Article',
+    journal: 'Article',
+    link: '/assets/papers/whiteaustraliasavedaustralia.pdf',
+    backup: '/assets/papers/whiteaustraliasavedaustralia.pdf'
   }
 ];
 
