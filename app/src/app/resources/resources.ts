@@ -1277,6 +1277,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Article',
     link: '/assets/papers/whiteaustraliasavedaustralia.pdf',
     backup: '/assets/papers/whiteaustraliasavedaustralia.pdf'
+  },
+  {
+    title: 'Chinese immigration restriction',
+    author: 'Henry Parkes',
+    year: '1880\'s',
+    category: 'Image',
+    journal: 'Image',
+    link: '/assets/images/WAP/HenryParkes.png',
+    backup: '/assets/images/WAP/HenryParkes.png'
   }
 ];
 
