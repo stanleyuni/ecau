@@ -1286,6 +1286,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Image',
     link: '/assets/images/WAP/HenryParkes.png',
     backup: '/assets/images/WAP/HenryParkes.png'
+  },
+  {
+    title: 'Chinese immigration restriction',
+    author: 'Samuel Griffith',
+    year: '1887',
+    category: 'Image',
+    journal: 'Image',
+    link: '/assets/images/WAP/SirSamuelGriffith.png',
+    backup: '/assets/images/WAP/SirSamuelGriffith.png'
   }
 ];
 
