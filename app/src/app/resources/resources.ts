@@ -1313,6 +1313,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'VDare',
     link: '/assets/papers/DiversityvsFreedom.pdf',
     backup: '/assets/papers/DiversityvsFreedom.pdf'
+  },
+  {
+    title: 'Review of Mark Lopez, The Origins of Multiculturalism in Australian Politics 1945-1975',
+    author: 'Professor Katharine Betts',
+    year: '2000',
+    category: 'Review',
+    journal: 'People and Place',
+    link: '/assets/papers/mark-lopez-betts.pdf',
+    backup: '/assets/papers/mark-lopez-betts.pdf'
   }
 ];
 
