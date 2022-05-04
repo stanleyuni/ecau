@@ -502,7 +502,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'The White Australia Policy',
-    author: 'George Reid',
+    author: 'Sir George Reid',
     journal: 'Image',
     category: 'Image',
     year: '1903',
@@ -556,7 +556,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'The White Australia Policy',
-    author: 'John Forrest',
+    author: 'Sir John Forrest',
     category: 'Image',
     journal: 'Image',
     year: '1898',
@@ -1280,7 +1280,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'Chinese immigration restriction',
-    author: 'Henry Parkes',
+    author: 'Sir Henry Parkes',
     year: '1880\'s',
     category: 'Image',
     journal: 'Image',
@@ -1289,12 +1289,30 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'Chinese immigration restriction',
-    author: 'Samuel Griffith',
+    author: 'Sir Samuel Griffith',
     year: '1887',
     category: 'Image',
     journal: 'Image',
     link: '/assets/images/WAP/SirSamuelGriffith.png',
     backup: '/assets/images/WAP/SirSamuelGriffith.png'
+  },
+  {
+    title: 'An Australian Law Professor Suggests That Huntington Book Is Still Part of the Problem',
+    author: 'Professor Andrew Fraser',
+    year: '2004',
+    category: 'Review',
+    journal: 'VDare',
+    link: '/assets/papers/An_Australian_Law_Professor_Suggests_Tha.pdf',
+    backup: '/assets/papers/An_Australian_Law_Professor_Suggests_Tha.pdf'
+  },
+  {
+    title: 'Australians Fight On The Beaches (Cronulla Riots)',
+    author: 'Professor Andrew Fraser',
+    year: '2005',
+    category: 'Opinion',
+    journal: 'VDare',
+    link: '/assets/papers/DiversityvsFreedom.pdf',
+    backup: '/assets/papers/DiversityvsFreedom.pdf'
   }
 ];
 
