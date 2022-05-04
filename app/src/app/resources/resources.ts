@@ -1322,6 +1322,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'People and Place',
     link: '/assets/papers/mark-lopez-betts.pdf',
     backup: '/assets/papers/mark-lopez-betts.pdf'
+  },
+  {
+    title: 'Immigration and public opinion in Australia: how public concerns about high migration are suppressed',
+    author: 'Professor Katharine Betts',
+    year: '2018',
+    category: 'Research',
+    journal: 'The Australian Population Research Institute',
+    link: '/assets/papers/Immigration-public-opinion-2018.pdf',
+    backup: '/assets/papers/Immigration-public-opinion-2018.pdf'
   }
 ];
 
