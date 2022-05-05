@@ -187,7 +187,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'The Dismantling of the White Australia Policy: Elite Conspiracy or Will of the Australian People?',
-    author: 'Gwenda Tavan',
+    author: 'Professor Gwenda Tavan',
     category: 'Article',
     journal: 'Australian Journal of Political Science',
     year: '2004',
