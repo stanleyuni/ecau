@@ -628,7 +628,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'The White Australia Policy',
-    author: 'Sir William Keith Hancock',
+    author: 'Professor Sir William Keith Hancock',
     category: 'Image',
     journal: 'Image',
     year: '1930',
@@ -1331,6 +1331,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'The Australian Population Research Institute',
     link: '/assets/papers/Immigration-public-opinion-2018.pdf',
     backup: '/assets/papers/Immigration-public-opinion-2018.pdf'
+  },
+  {
+    title: 'Australia',
+    author: 'Professor Sir William Keith Hancock',
+    year: '1931',
+    category: 'Book',
+    journal: 'Ernest Benn Limited',
+    link: '/assets/papers/Australia_compressed.pdf',
+    backup: '/assets/papers/Australia_compressed.pdf'
   }
 ];
 
