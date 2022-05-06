@@ -1340,6 +1340,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Ernest Benn Limited',
     link: '/assets/papers/Australia_compressed.pdf',
     backup: '/assets/papers/Australia_compressed.pdf'
+  },
+  {
+    title: 'Comparing the Developmental Genetics of Cognition and Personality over the Lifespan',
+    author: 'Professor Daniel A. Briley & Professor Elliot M. Tucker-Drob',
+    year: '2017',
+    category: 'Research',
+    journal: 'Journal of personality',
+    link: 'https://doi.org/10.1111/jopy.12186',
+    backup: '/assets/papers/nihms-699196.pdf'
   }
 ];
 
