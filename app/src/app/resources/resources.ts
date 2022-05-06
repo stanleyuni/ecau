@@ -1357,7 +1357,7 @@ const PAPERS: ResearchPaper[] = [
     category: 'Video',
     journal: '',
     link: '/assets/videos/youreaustralian.mp4',
-    backup: '',
+    backup: '/assets/videos/youreaustralian.mp4',
   }
 ];
 
