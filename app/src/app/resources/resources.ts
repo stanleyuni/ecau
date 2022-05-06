@@ -1349,6 +1349,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Journal of personality',
     link: 'https://doi.org/10.1111/jopy.12186',
     backup: '/assets/papers/nihms-699196.pdf'
+  },
+  {
+    title: 'Remember you\'re Australian',
+    author: '',
+    year: '',
+    category: 'Video',
+    journal: '',
+    link: '/assets/videos/youreaustralian.mp4',
+    backup: '',
   }
 ];
 
