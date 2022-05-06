@@ -24,3 +24,36 @@ h1 {
   margin: 10px;
   text-justify: inter-word;
 }
+
+.header {
+  max-width: 100%;
+  height: 25%;
+}
+
+.telegram {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.border {
+  border: 2px solid darkgray;
+  border-radius: 5px;
+  width: 60%;
+  padding: 8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.left {
+  flex: 1 auto;
+}
+
+.right {
+  text-align: center;
+  flex: 3 auto;
+}
