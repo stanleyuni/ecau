@@ -1376,6 +1376,42 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Image',
     link: '/assets/images/WAP/SirJohnKirwan.png',
     backup: '/assets/images/WAP/SirJohnKirwan.png'
+  },
+  {
+    title: 'Australia Bretrayed: How Australian democracy has been undermined and our naive trust betrayed',
+    author: 'Graeme Campbell & Mark Uhlmann',
+    year: '1995',
+    category: 'Book',
+    journal: 'Foundation Press',
+    link: 'https://archive.org/details/australia-betrayed',
+    backup: '/assets/papers/Graeme_Campbell_Australia_Betrayed_How_Australian_Democracy_Has.pdf'
+  },
+  {
+    title: 'The Birth of White Australia: The Battle of Lambing Flat',
+    author: 'Frank Clune',
+    year: '1943',
+    category: 'Article',
+    journal: 'Ironbark',
+    link: 'https://www.ironbarkresources.com/pdfs/LambingFlatRebellion.pdf',
+    backup: '/assets/papers/LambingFlatRebellion.pdf'
+  },
+  {
+    title: 'Globalisation, Demise of the Australian Nation',
+    author: 'Graham L. Strachan',
+    year: '1998',
+    category: 'Book',
+    journal: 'Applause Press',
+    link: 'https://archive.org/details/globalisation-demise-of-the-australian-nation/',
+    backup: '/assets/papers/globalisationaustralia.pdf'
+  },
+  {
+    title: 'Merchants of Sin',
+    author: 'Benjamin Garland',
+    year: '2017',
+    category: 'Book',
+    journal: '',
+    link: 'https://www.goodreads.com/book/show/35899224-merchants-of-sin',
+    backup: '/assets/papers/MerchantsofSin.pdf'
   }
 ];
 
