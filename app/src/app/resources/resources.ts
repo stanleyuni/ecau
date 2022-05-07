@@ -1367,6 +1367,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Music',
     link: '/assets/music/GreenBanFusiliers.m4a',
     backup: '/assets/music/GreenBanFusiliers.m4a'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'Sir John Kirwan',
+    year: '1904',
+    category: 'Image',
+    journal: 'Image',
+    link: '/assets/images/WAP/SirJohnKirwan.png',
+    backup: '/assets/images/WAP/SirJohnKirwan.png'
   }
 ];
 
