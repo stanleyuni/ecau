@@ -1358,6 +1358,15 @@ const PAPERS: ResearchPaper[] = [
     journal: '',
     link: '/assets/videos/youreaustralian.mp4',
     backup: '/assets/videos/youreaustralian.mp4',
+  },
+  {
+    title: 'Green Ban Fusiliers (Cover by Jason & Chloe Roweth)',
+    author: 'Denis Kevans',
+    year: '1972',
+    category: 'Music',
+    journal: 'Music',
+    link: '/assets/music/GreenBanFusiliers.m4a',
+    backup: '/assets/music/GreenBanFusiliers.m4a'
   }
 ];
 
