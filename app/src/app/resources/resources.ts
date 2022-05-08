@@ -1412,6 +1412,15 @@ const PAPERS: ResearchPaper[] = [
     journal: '',
     link: 'https://www.goodreads.com/book/show/35899224-merchants-of-sin',
     backup: '/assets/papers/MerchantsofSin.pdf'
+  },
+  {
+    title: 'Freedom Manifesto',
+    author: 'Liberal Democrats',
+    year: '2022',
+    category: 'Policy',
+    journal: 'Liberal Democrats',
+    link: '/assets/papers/LDPfreedommanifesto2022.pdf',
+    backup: '/assets/papers/LDPfreedommanifesto2022.pdf'
   }
 ];
 
