@@ -1,3 +1,4 @@
+import { BaseCdkCell } from '@angular/cdk/table';
 import {AfterViewInit, Component, ViewChild} from '@angular/core';
 import {MatPaginator} from '@angular/material/paginator';
 import {MatSort} from '@angular/material/sort';
@@ -411,7 +412,7 @@ const PAPERS: ResearchPaper[] = [
     backup: '/assets/papers/TheMenaceofMulticulturalism.pdf'
   },
   {
-    title: 'Freedom Manifesto',
+    title: 'Freedom Manifesto (Version 1)',
     author: 'Liberal Democrat Party',
     journal: '',
     category: 'Policy',
@@ -1414,13 +1415,22 @@ const PAPERS: ResearchPaper[] = [
     backup: '/assets/papers/MerchantsofSin.pdf'
   },
   {
-    title: 'Freedom Manifesto',
-    author: 'Liberal Democrats',
+    title: 'Freedom Manifesto (Version 2)',
+    author: 'Liberal Democrat Party',
     year: '2022',
     category: 'Policy',
-    journal: 'Liberal Democrats',
+    journal: 'Liberal Democrat Party',
     link: '/assets/papers/LDPfreedommanifesto2022.pdf',
     backup: '/assets/papers/LDPfreedommanifesto2022.pdf'
+  },
+  {
+    title: 'Recovering signals of ghost archaic introgression in African populations',
+    author: 'Arun Durvasula & Professor Sriram Sankararaman',
+    year: '2020',
+    category: 'Research',
+    journal: 'Science Advances',
+    link: 'https://doi.org/10.1126/sciadv.aax5097',
+    backup: '/assets/papers/10.1126@sciadv.aax5097.pdf',
   }
 ];
 
