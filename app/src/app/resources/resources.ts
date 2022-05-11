@@ -1449,6 +1449,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Journal of Experimental Social Psychology',
     link: 'https://doi.org/10.1016/j.jesp.2016.05.008',
     backup: '/assets/papers/skinner2016.pdf'
+  },
+  {
+    title: 'Taking back the moral high ground',
+    author: 'Andrew Guild',
+    year: '2008',
+    category: 'Article',
+    journal: 'Ironbark',
+    link: '/assets/papers/TakingBackTheMoralHighGround.pdf',
+    backup: '/assets/papers/TakingBackTheMoralHighGround.pdf'
   }
 ];
 
