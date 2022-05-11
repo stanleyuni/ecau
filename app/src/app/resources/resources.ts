@@ -1431,6 +1431,24 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Science Advances',
     link: 'https://doi.org/10.1126/sciadv.aax5097',
     backup: '/assets/papers/10.1126@sciadv.aax5097.pdf',
+  },
+  {
+    title: 'A Robust Bias Against Interracial Couples Among White and Black Respondents, Relative to Multiracial Respondents',
+    author: 'Professor Allison L. Skinner-Dorkenoo & James R. Rae',
+    year: '2018',
+    journal: 'Social Psychological and Personality Science',
+    category: 'Research',
+    link: 'https://doi.org/10.1177/1948550618783713',
+    backup: '/assets/papers/'
+  },
+  {
+    title: '“Yuck, you disgust me!” Affective bias against interracial couples',
+    author: 'Professor Allison L. Skinner-Dorkenoo & Professor Caitlin M. Hudac',
+    year: '2016',
+    category: 'Research',
+    journal: 'Journal of Experimental Social Psychology',
+    link: 'https://doi.org/10.1016/j.jesp.2016.05.008',
+    backup: '/assets/papers/skinner2016.pdf'
   }
 ];
 
