@@ -1458,6 +1458,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Ironbark',
     link: '/assets/papers/TakingBackTheMoralHighGround.pdf',
     backup: '/assets/papers/TakingBackTheMoralHighGround.pdf'
+  },
+  {
+    title: 'Human genome diversity: frequently asked questions',
+    author: 'Professor Guido Barbujani & Vincenza Colonna',
+    year: '2010',
+    category: 'Review',
+    journal: 'Feature Review',
+    link: 'https://doi.org/10.1016/j.tig.2010.04.002',
+    backup: '/assets/papers/barbujani2010.pdf'
   }
 ];
 
