@@ -1476,6 +1476,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'News',
     link: '/assets/papers/wadeyeclanviolence.pdf',
     backup: '/assets/papers/wadeyeclanviolence.pdf'
+  },
+  {
+    title: 'Inside the aboriginal town where 250 residents armed with spears and axes burned down eight homes in a 15-hour rampage after a fatal stabbing - and why the remote community is at war',
+    author: 'Daily Mail',
+    year: '2020',
+    category: 'News',
+    journal: 'News',
+    link: '/assets/papers/aboriginalwar.pdf',
+    backup: '/assets/papers/aboriginalwar.pdf'
   }
 ];
 
