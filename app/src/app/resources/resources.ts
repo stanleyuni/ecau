@@ -1467,6 +1467,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Feature Review',
     link: 'https://doi.org/10.1016/j.tig.2010.04.002',
     backup: '/assets/papers/barbujani2010.pdf'
+  },
+  {
+    title: 'Aboriginal clan violence in Wadeye',
+    author: '7 News & The Guardian',
+    year: '2022',
+    category: 'Composition',
+    journal: 'News',
+    link: '/assets/papers/wadeyeclanviolence.pdf',
+    backup: '/assets/papers/wadeyeclanviolence.pdf'
   }
 ];
 
