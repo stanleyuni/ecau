@@ -1485,6 +1485,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'News',
     link: '/assets/papers/aboriginalwar.pdf',
     backup: '/assets/papers/aboriginalwar.pdf'
+  },
+  {
+    title: 'Notable Quran quotes',
+    author: '',
+    year: '',
+    category: 'Religion',
+    journal: '',
+    link: '/assets/papers/NotableQuranQuotes.pdf',
+    backup: '/assets/papers/NotableQuranQuotes.pdf'
   }
 ];
 
