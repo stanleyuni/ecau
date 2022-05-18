@@ -1494,6 +1494,105 @@ const PAPERS: ResearchPaper[] = [
     journal: '',
     link: '/assets/papers/NotableQuranQuotes.pdf',
     backup: '/assets/papers/NotableQuranQuotes.pdf'
+  },
+  {
+    title: 'Violent inner-city crime, the figures, and a question of race',
+    author: 'The Telegraph',
+    year: '2010',
+    category: 'News',
+    journal: 'The Telegraph',
+    link: '/assets/papers/Telegraph-Race.pdf',
+    backup: '/assets/papers/Telegraph-Race.pdf'
+  },
+  {
+    title: 'A Discussion On Race, Crime And The Inconvenient Facts',
+    author: 'Investor\'s Business Daily',
+    category: 'News',
+    journal: 'Investor\'s Business Daily',
+    year: '2013',
+    link: '/assets/papers/ADiscussionOnRaceCrimeAndTheInconvenientFacts.pdf',
+    backup: '/assets/papers/ADiscussionOnRaceCrimeAndTheInconvenientFacts.pdf'
+  },
+  {
+    title: 'Most Serial Killers Are Black',
+    author: 'American Renaissance',
+    year: '2019',
+    journal: 'American Renaissance',
+    category: 'News',
+    link: '/assets/papers/MostSerialKillersAreBlack.pdf',
+    backup: '/assets/papers/MostSerialKillersAreBlack.pdf'
+  },
+  {
+    title: 'Crime and Enforcement Activity in New York City',
+    author: 'New York Police Department',
+    category: 'Research',
+    year: '2014',
+    journal: 'New York Police Department',
+    link: '/assets/papers/enforcement_report_year_end_2014.pdf',
+    backup: '/assets/papers/enforcement_report_year_end_2014.pdf'
+  },
+  {
+    title: 'Genetic Influence on Human Psychological Traits',
+    author: 'Professor Thomas J. Bouchard, Jr.',
+    category: 'Research',
+    year: '2004',
+    journal: 'Current directions in psychological science',
+    link: 'https://doi.org/10.1111/j.0963-7214.2004.00295.x',
+    backup: '/assets/papers/bouchard2004.pdf'
+  },
+  {
+    title: 'Racial and ethnic differences in psychopathic personality',
+    author: 'Professor Richard Lynn',
+    category: 'Research',
+    year: '2000',
+    journal: 'Personality and Individual Difference',
+    link: 'https://doi.org/10.1016/S0191-8869(01)00029-0',
+    backup: '/assets/papers/lynn2002.pdf'
+  },
+  {
+    title: 'Genetics and intelligence differences: five special findings',
+    author: 'Professor R. Plomin & Professor I. J. Deary',
+    year: '2014',
+    journal: 'Molecular Psychiatry',
+    category: 'Review',
+    link: 'https://doi.org/10.1038/mp.2014.105',
+    backup: '/assets/papers/mp2014105.pdf'
+  },
+  {
+    title: 'Race and Crime in America',
+    year: '2013',
+    author: 'Ron Unz',
+    category: 'Review',
+    journal: 'The Unz Review',
+    link: '/assets/papers/pTheUnzReviewRaceAndCrime.pdf',
+    backup: '/assets/papers/TheUnzReviewRaceAndCrime.pdf'
+  },
+  {
+    title: 'The Limits of Democratization: Climate, Intelligence, and Resource Distribution',
+    author: 'Professor Hiram Caton',
+    year: '2009',
+    category: 'Review',
+    journal: 'Washington Summit Publishers',
+    link: '',
+    backup: '/assets/papers/the-limits-of-democratization-climate-intelligence-and-resource-distributiontatu-vanhanen-2009-atlanta-ga-washington-summit-publishers-362-pp-usdollar2195-isbn-978-1-59368-031-2.pdf'
+  },
+  {
+    title: 'Thirty years of research on race differences in cognitive ability',
+    author: 'Professor J. P. Rushton & Professor A. R. Jensen',
+    year: '2005',
+    category: 'Review',
+    journal: 'American Psychological Association',
+    link: 'https://doi.org/10.1037/1076-8971.11.2.235',
+    backup: '/assets/papers/Rushton-Jensen30years.pdf'
+  },
+  {
+    title: 'Jensen Effects among African, Indian, and White engineering students in South Africa on Raven\'s Standard Progressive Matrices',
+    author: 'Professor J. P. Rushton et al',
+    year: '2002',
+    category: 'Research',
+    journal: 'Intelligence',
+    link: 'https://doi.org/10.1016/S0160-2896(02)00093-4',
+    backup: '/assets/papers/ravensiii.pdf',
   }
 ];
 
