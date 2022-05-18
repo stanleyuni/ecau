@@ -1344,7 +1344,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'Comparing the Developmental Genetics of Cognition and Personality over the Lifespan',
-    author: 'Professor Daniel A. Briley & Professor Elliot M. Tucker-Drob',
+    author: 'Professor D. A. Briley & Professor E. M. Tucker-Drob',
     year: '2017',
     category: 'Research',
     journal: 'Journal of personality',
@@ -1380,7 +1380,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'Australia Bretrayed: How Australian democracy has been undermined and our naive trust betrayed',
-    author: 'Graeme Campbell & Mark Uhlmann',
+    author: 'G. Campbell & M. Uhlmann',
     year: '1995',
     category: 'Book',
     journal: 'Foundation Press',
@@ -1425,7 +1425,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'Recovering signals of ghost archaic introgression in African populations',
-    author: 'Arun Durvasula & Professor Sriram Sankararaman',
+    author: 'Professor S. Sankararaman & A. Durvasula',
     year: '2020',
     category: 'Research',
     journal: 'Science Advances',
@@ -1434,7 +1434,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'A Robust Bias Against Interracial Couples Among White and Black Respondents, Relative to Multiracial Respondents',
-    author: 'Professor Allison L. Skinner-Dorkenoo & James R. Rae',
+    author: 'Professor A. L. Skinner-Dorkenoo & J. R. Rae',
     year: '2018',
     journal: 'Social Psychological and Personality Science',
     category: 'Research',
@@ -1443,7 +1443,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: '“Yuck, you disgust me!” Affective bias against interracial couples',
-    author: 'Professor Allison L. Skinner-Dorkenoo & Professor Caitlin M. Hudac',
+    author: 'Professor A. L. Skinner-Dorkenoo & Professor C. M. Hudac',
     year: '2016',
     category: 'Research',
     journal: 'Journal of Experimental Social Psychology',
@@ -1461,7 +1461,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'Human genome diversity: frequently asked questions',
-    author: 'Professor Guido Barbujani & Vincenza Colonna',
+    author: 'Professor G. Barbujani & V. Colonna',
     year: '2010',
     category: 'Review',
     journal: 'Feature Review',
