@@ -592,7 +592,7 @@ const PAPERS: ResearchPaper[] = [
     backup: '/assets/images/WAP/NedKelly.png'
   },
   {
-    title: 'Multicultralism',
+    title: 'multiculturalism',
     author: 'Pauline Hanson',
     category: 'Image',
     journal: 'Image',
@@ -1593,6 +1593,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Intelligence',
     link: 'https://doi.org/10.1016/S0160-2896(02)00093-4',
     backup: '/assets/papers/ravensiii.pdf',
+  },
+  {
+    title: '5 Devastating Facts About Black-on-Black Crime',
+    author: 'Breitbart',
+    year: '2015',
+    category: 'News',
+    journal: 'Breitbart',
+    link: '/assets/papers/5factsaboutblackonblackcrime.pdf',
+    backup: '/assets/papers/5factsaboutblackonblackcrime.pdf'
   }
 ];
 
