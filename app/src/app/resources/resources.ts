@@ -1611,6 +1611,33 @@ const PAPERS: ResearchPaper[] = [
     journal: '',
     link: '/assets/papers/TherapeofEuropeanwomenbyinvaders.pdf',
     backup: '/assets/papers/TherapeofEuropeanwomenbyinvaders.pdf'
+  },
+  {
+    title: 'The Landing of Captain Cook',
+    author: 'Emanuel P. Fox',
+    year: '1902',
+    category: 'Artwork',
+    journal: 'Gilbee Bequest',
+    link: '/assets/images/art/Emanuel_Phillips_Fox_painting_Landing_of_Captain_James_Cook_at_Botany_Bay,_1770.jpg',
+    backup: '/assets/images/art/Emanuel_Phillips_Fox_painting_Landing_of_Captain_James_Cook_at_Botany_Bay,_1770.jpg'
+  },
+  {
+    title: 'The silent gums',
+    year: '1909',
+    category: 'Artwork',
+    author: 'Walter Withers',
+    journal: 'Felton Bequest',
+    link: '/assets/images/art/TheSilentGums.jpg',
+    backup: '/assets/images/art/TheSilentGums.jpg'
+  },
+  {
+    title: 'The pioneer',
+    author: 'Frederick McCubbin',
+    year: '1904',
+    category: 'Artwork',
+    journal: 'Felton Bequest',
+    link: '/assets/images/art/Thepioneer.jpg',
+    backup: '/assets/images/art/Thepioneer.jpg'
   }
 ];
 
