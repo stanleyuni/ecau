@@ -1564,7 +1564,7 @@ const PAPERS: ResearchPaper[] = [
     author: 'Ron Unz',
     category: 'Review',
     journal: 'The Unz Review',
-    link: '/assets/papers/pTheUnzReviewRaceAndCrime.pdf',
+    link: '/assets/papers/TheUnzReviewRaceAndCrime.pdf',
     backup: '/assets/papers/TheUnzReviewRaceAndCrime.pdf'
   },
   {
