@@ -1488,7 +1488,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'Notable Quran quotes',
-    author: '',
+    author: 'ecau.org',
     year: '',
     category: 'Religion',
     journal: '',
@@ -1638,6 +1638,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Felton Bequest',
     link: '/assets/images/art/Thepioneer.jpg',
     backup: '/assets/images/art/Thepioneer.jpg'
+  },
+  {
+    title: 'Australian Freedom of Speech',
+    author: 'ecau.org',
+    year: '2022',
+    category: 'Composition',
+    journal: 'ecau.org',
+    link: '/assets/papers/AustralianHumanRights.pdf',
+    backup: '/assets/papers/AustralianHumanRights.pdf'
   }
 ];
 
