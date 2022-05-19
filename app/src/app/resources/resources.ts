@@ -1573,7 +1573,7 @@ const PAPERS: ResearchPaper[] = [
     year: '2009',
     category: 'Review',
     journal: 'Washington Summit Publishers',
-    link: '',
+    link: 'https://doi.org/10.1375/twin.12.4.408',
     backup: '/assets/papers/the-limits-of-democratization-climate-intelligence-and-resource-distributiontatu-vanhanen-2009-atlanta-ga-washington-summit-publishers-362-pp-usdollar2195-isbn-978-1-59368-031-2.pdf'
   },
   {
