@@ -1602,6 +1602,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Breitbart',
     link: '/assets/papers/5factsaboutblackonblackcrime.pdf',
     backup: '/assets/papers/5factsaboutblackonblackcrime.pdf'
+  },
+  {
+    title: 'The rape of European women by invaders',
+    year: '2022',
+    author: 'Payton S. Gendron',
+    category: 'Article',
+    journal: '',
+    link: '/assets/papers/TherapeofEuropeanwomenbyinvaders.pdf',
+    backup: '/assets/papers/TherapeofEuropeanwomenbyinvaders.pdf'
   }
 ];
 
