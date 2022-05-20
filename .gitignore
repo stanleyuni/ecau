@@ -5,6 +5,9 @@ app/node_modules
 **/*/node_modules
 **/*/.firebase
 .firebase
+**/*/*.mp4
+**/*.mp4
+*.mp4
 
 # Compiled output
 **/*/dist

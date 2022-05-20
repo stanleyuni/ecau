@@ -1,8 +1,8 @@
 import { BaseCdkCell } from '@angular/cdk/table';
-import {AfterViewInit, Component, ViewChild} from '@angular/core';
-import {MatPaginator} from '@angular/material/paginator';
-import {MatSort} from '@angular/material/sort';
-import {MatTableDataSource} from '@angular/material/table';
+import { AfterViewInit, Component, ViewChild } from '@angular/core';
+import { MatPaginator } from '@angular/material/paginator';
+import { MatSort } from '@angular/material/sort';
+import { MatTableDataSource } from '@angular/material/table';
 
 export interface ResearchPaper {
   title: string;
@@ -528,15 +528,6 @@ const PAPERS: ResearchPaper[] = [
     link: '/assets/images/WAP/JackBeasley.png',
     backup: '/assets/images/WAP/JackBeasley.png'
   },
-  // {
-  //   title: 'Re-Thinking the White Australia Policy',
-  //   author: 'A. P. Elkin',
-  //   category: 'Article',
-  //   journal: 'The Australian Quarterly',
-  //   year: '1945',
-  //   link: 'https://doi.org/10.2307/20631287',
-  //   backup: '/assets/papers/elkin1945.pdf'
-  // },
   {
     title: 'The White Australia Policy',
     author: 'James Ronald',
@@ -1366,7 +1357,7 @@ const PAPERS: ResearchPaper[] = [
     year: '1972',
     category: 'Music',
     journal: 'Music',
-    link: '/assets/music/GreenBanFusiliers.m4a',
+    link: 'https://www.youtube.com/watch?v=7-sj50MyQOA',
     backup: '/assets/music/GreenBanFusiliers.m4a'
   },
   {
@@ -1643,11 +1634,66 @@ const PAPERS: ResearchPaper[] = [
     title: 'Australian Freedom of Speech',
     author: 'ecau.org',
     year: '2022',
-    category: 'Composition',
+    category: 'Policy',
     journal: 'ecau.org',
     link: '/assets/papers/AustralianHumanRights.pdf',
     backup: '/assets/papers/AustralianHumanRights.pdf'
-  }
+  },
+  {
+    title: 'The Australian Constitution for dummies',
+    author: 'Larry Hannigan',
+    year: '1991',
+    category: 'Video',
+    journal: '',
+    link: 'https://www.youtube.com/watch?v=67FPM0ePOSQ',
+    backup: '/assets/videos/AustralianConstitutionforDummies.mp4'
+  },
+  {
+    title: 'Admission impossible',
+    author: 'Alec Morgan',
+    year: '1992',
+    category: 'Video',
+    journal: '',
+    link: 'https://www.youtube.com/watch?v=uPfJRetYP04',
+    backup: '/assets/videos/AdmissionImpossible.mp4'
+  },
+  {
+    title: 'The plan, how we got here - New World Order Australia',
+    author: 'Jeremy Lee',
+    year: '1991',
+    category: 'Video',
+    journal: '',
+    link: 'https://www.youtube.com/watch?v=jxG-kAQnfLM',
+    backup: '/assets/videos/NWO.mp4'
+  },
+  {
+    title: 'Dicing with disaster - A Debt Driven Drive for a Republic',
+    author: 'Jeremy Lee',
+    year: '1993',
+    category: 'Video',
+    journal: '',
+    link: 'https://www.youtube.com/watch?v=Hcxgni_62u4',
+    backup: '/assets/videos/dicingwithdisaster.mp4'
+  },
+  {
+    title: 'The money game',
+    author: 'Jeremy Lee',
+    year: '1991',
+    category: 'Video',
+    journal: '',
+    link: 'https://www.youtube.com/watch?v=PU8sm7JMzlo',
+    backup: '/assets/videos/TheMoneyGame.mp4'
+  },
+  {
+    title: 'Planned surrender of Australia',
+    year: '1989',
+    author: 'ED Butler',
+    category: 'Video',
+    journal: '',
+    link: 'https://www.youtube.com/watch?v=Vp2-MBhX0XI',
+    backup: '/assets/videos/PlannedSurrenderofAustralia1989byEDButler.mp4'
+  },
+  
 ];
 
 /**
