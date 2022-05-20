@@ -5,9 +5,14 @@ app/node_modules
 **/*/node_modules
 **/*/.firebase
 .firebase
+
+# Large files
 **/*/*.mp4
 **/*.mp4
 *.mp4
+**/*/*.m4a
+**/*.m4a
+"*.m4a
 
 # Compiled output
 **/*/dist

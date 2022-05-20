@@ -1145,12 +1145,12 @@ const PAPERS: ResearchPaper[] = [
     backup: '/assets/papers/verweij2008.pdf'
   },
   {
-    title: 'What is Islams view on concubines',
+    title: 'What is Islams view on sex-slavery and concubines',
     author: 'Ex-muslims of North America',
     year: '2020',
     journal: 'Exmuslims',
     category: 'Video',
-    link: '/assets/videos/islamconcubines.mp4',
+    link: 'https://www.youtube.com/watch?v=8Wn1DilLIQg',
     backup: '/assets/videos/islamconcubines.mp4'
   },
   {
@@ -1159,7 +1159,7 @@ const PAPERS: ResearchPaper[] = [
     year: '2020',
     journal: 'Exmuslims',
     category: 'Video',
-    link: '/assets/videos/islammartialconsent.mp4',
+    link: 'https://www.youtube.com/watch?v=NMnjGNYxahs',
     backup: '/assets/videos/islammartialconsent.mp4'
   },
   {
@@ -1577,7 +1577,7 @@ const PAPERS: ResearchPaper[] = [
     backup: '/assets/papers/Rushton-Jensen30years.pdf'
   },
   {
-    title: 'Jensen Effects among African, Indian, and White engineering students in South Africa on Raven\'s Standard Progressive Matrices',
+    title: 'Jensen effects among African, Indian, and White engineering students in South Africa on Raven\'s Standard Progressive Matrices',
     author: 'Professor J. P. Rushton et al',
     year: '2002',
     category: 'Research',
@@ -1654,7 +1654,7 @@ const PAPERS: ResearchPaper[] = [
     year: '1992',
     category: 'Video',
     journal: '',
-    link: 'https://www.youtube.com/watch?v=uPfJRetYP04',
+    link: 'https://www.youtube.com/watch?v=8iruNB1ywj4',
     backup: '/assets/videos/AdmissionImpossible.mp4'
   },
   {
@@ -1667,7 +1667,7 @@ const PAPERS: ResearchPaper[] = [
     backup: '/assets/videos/NWO.mp4'
   },
   {
-    title: 'Dicing with disaster - A Debt Driven Drive for a Republic',
+    title: 'Dicing with disaster - A debt driven drive for a republic',
     author: 'Jeremy Lee',
     year: '1993',
     category: 'Video',
@@ -1693,7 +1693,33 @@ const PAPERS: ResearchPaper[] = [
     link: 'https://www.youtube.com/watch?v=Vp2-MBhX0XI',
     backup: '/assets/videos/PlannedSurrenderofAustralia1989byEDButler.mp4'
   },
-  
+  {
+    title: 'None dare call it conspiracy',
+    author: 'Gary Allen',
+    year: '1972',
+    category: 'Book',
+    journal: '',
+    link: '/assets/papers/NoneDareCallItConspiracy.pdf',
+    backup: '/assets/papers/NoneDareCallItConspiracy.pdf'
+  },
+  {
+    title: 'A history of banking in Australia',
+    author: 'Jeremy Lee',
+    year: '1999',
+    category: 'Video',
+    journal: '',
+    link: 'https://www.youtube.com/watch?v=fStXgr14Ag0',
+    backup: '/assets/videos/retellthestory.mp4'
+  },
+  {
+    title: 'New World Order, seduction or solution?',
+    author: 'Jeremy Lee',
+    year: '1992',
+    category: 'Video',
+    journal: '',
+    link: 'https://www.youtube.com/watch?v=IxoIb8LEihU',
+    backup: '/assets/videos/NWOSeductionorSolution.mp4'
+  }
 ];
 
 /**
