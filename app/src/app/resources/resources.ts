@@ -1,4 +1,3 @@
-import { BaseCdkCell } from '@angular/cdk/table';
 import { AfterViewInit, Component, ViewChild } from '@angular/core';
 import { MatPaginator } from '@angular/material/paginator';
 import { MatSort } from '@angular/material/sort';
@@ -1199,21 +1198,12 @@ const PAPERS: ResearchPaper[] = [
     backup: '/assets/images/WAP/BurfordSampson.png'
   },
   {
-    title: 'Australian Labor Party committed to the Socialist International Alliance',
-    year: '1991',
-    author: 'Jeremy Lee',
-    category: 'Video',
-    journal: 'Video',
-    link: '/assets/videos/SocialistInternationalAlliance.mp4',
-    backup: '/assets/videos/SocialistInternationalAlliance.mp4'
-  },
-  {
     title: 'Australian Department of Health can\'t define what a woman is',
-    author: 'Senator Alex Antic',
+    author: 'Alex Antic',
     year: '2022',
     category: 'Video',
     journal: 'Video',
-    link: '/assets/videos/SenatorAnticWhatIsAWoman.mp4',
+    link: 'https://www.youtube.com/watch?v=SsL2f5x5eAk',
     backup: '/assets/videos/SenatorAnticWhatIsAWoman.mp4'
   },
   {
@@ -1348,7 +1338,7 @@ const PAPERS: ResearchPaper[] = [
     year: '',
     category: 'Video',
     journal: '',
-    link: '/assets/videos/youreaustralian.mp4',
+    link: 'https://www.youtube.com/watch?v=Lq0Q85fuRK0',
     backup: '/assets/videos/youreaustralian.mp4',
   },
   {
