@@ -1703,7 +1703,7 @@ const PAPERS: ResearchPaper[] = [
     backup: '/assets/papers/NoneDareCallItConspiracy.pdf'
   },
   {
-    title: 'A history of banking in Australia',
+    title: 'Retell the story - The theft of Australias banking system',
     author: 'Jeremy Lee',
     year: '1999',
     category: 'Video',
