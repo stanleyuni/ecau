@@ -1718,6 +1718,15 @@ const PAPERS: ResearchPaper[] = [
     category: 'Video',
     link: '',
     backup: '/assets/videos/canwegetbackaus.mp4'
+  },
+  {
+    title: 'Crown, common law and constitution and the Australian situation',
+    category: 'Video',
+    journal: '',
+    author: 'Freedom potentials',
+    link: 'https://www.youtube.com/watch?v=u0xeBwMmwZM',
+    year: '1990\'s',
+    backup: '/assets/videos/commonlaw.mp4'
   }
 ];
 
