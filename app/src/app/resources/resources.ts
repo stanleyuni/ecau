@@ -1709,6 +1709,15 @@ const PAPERS: ResearchPaper[] = [
     journal: '',
     link: 'https://www.youtube.com/watch?v=IxoIb8LEihU',
     backup: '/assets/videos/NWOSeductionorSolution.mp4'
+  },
+  {
+    title: 'Can we get Australia back?',
+    author: 'Jeremy Lee',
+    year: '1990\'s',
+    journal: '',
+    category: 'Video',
+    link: '',
+    backup: '/assets/videos/canwegetbackaus.mp4'
   }
 ];
 
