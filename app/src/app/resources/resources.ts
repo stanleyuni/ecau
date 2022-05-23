@@ -1724,9 +1724,36 @@ const PAPERS: ResearchPaper[] = [
     category: 'Video',
     journal: '',
     author: 'Freedom potentials',
-    link: 'https://www.youtube.com/watch?v=u0xeBwMmwZM',
+    link: 'https://www.youtube.com/watch?v=2UnjPq8T2ug',
     year: '1990\'s',
     backup: '/assets/videos/commonlaw.mp4'
+  },
+  {
+    title: 'Settler\'s Camp,',
+    author: 'Arthur Streeton',
+    year: '1888',
+    journal: '',
+    category: 'Artwork',
+    link: '/assets/images/art/STREETON-Settlers-Camp-1888.jpg',
+    backup: '/assets/images/art/STREETON-Settlers-Camp-1888.jpg'
+  },
+  {
+    title: 'Land of the Golden Fleece',
+    author: 'Arthur Streeton',
+    year: '1926',
+    category: 'Artwork',
+    journal: '',
+    link: '/assets/images/art/Land_of_the_Golden_Fleece,_1926_-_Arthur_Streeton_-_NGV_2333-4.jpg',
+    backup: '/assets/images/art/Land_of_the_Golden_Fleece,_1926_-_Arthur_Streeton_-_NGV_2333-4.jpg'
+  },
+  {
+    title: 'Man Reading a Newspaper',
+    year: '1941',
+    author: 'Russel Drysdale',
+    category: 'Artwork',
+    journal: '',
+    link: '/assets/images/art/drysdale-newspaper.png',
+    backup: '/assets/images/art/drysdale-newspaper.png'
   }
 ];
 
