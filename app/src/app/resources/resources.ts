@@ -1677,7 +1677,7 @@ const PAPERS: ResearchPaper[] = [
   {
     title: 'Planned surrender of Australia',
     year: '1989',
-    author: 'ED Butler',
+    author: 'Eric D. Butler',
     category: 'Video',
     journal: '',
     link: 'https://www.youtube.com/watch?v=Vp2-MBhX0XI',
@@ -1754,6 +1754,15 @@ const PAPERS: ResearchPaper[] = [
     journal: '',
     link: '/assets/images/art/drysdale-newspaper.png',
     backup: '/assets/images/art/drysdale-newspaper.png'
+  },
+  {
+    title: 'WWII',
+    author: 'Eric D. Butler',
+    year: '1939',
+    category: 'Image',
+    journal: '',
+    link: '/assets/images/etc/EricButler.png',
+    backup: '/assets/images/etc/EricButler.png'
   }
 ];
 
