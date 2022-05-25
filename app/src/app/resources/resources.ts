@@ -1763,6 +1763,15 @@ const PAPERS: ResearchPaper[] = [
     journal: '',
     link: '/assets/images/etc/EricButler.png',
     backup: '/assets/images/etc/EricButler.png'
+  },
+  {
+    title: 'Aristotle on Immigration, Diversity and Democracy',
+    author: 'Guillaume Durcoher',
+    year: '2017',
+    category: 'Article',
+    journal: 'Occidental Observer',
+    link: '/assets/papers/AristotleDiversityDemocracy.pdf',
+    backup: '/assets/papers/AristotleDiversityDemocracy.pdf'
   }
 ];
 
