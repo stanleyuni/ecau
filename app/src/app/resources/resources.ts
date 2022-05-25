@@ -1729,7 +1729,7 @@ const PAPERS: ResearchPaper[] = [
     backup: '/assets/videos/commonlaw.mp4'
   },
   {
-    title: 'Settler\'s Camp,',
+    title: 'Settler\'s camp',
     author: 'Arthur Streeton',
     year: '1888',
     journal: '',
