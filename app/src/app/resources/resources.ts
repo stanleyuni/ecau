@@ -1772,6 +1772,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'Occidental Observer',
     link: '/assets/papers/AristotleDiversityDemocracy.pdf',
     backup: '/assets/papers/AristotleDiversityDemocracy.pdf'
+  },
+  {
+    title: 'Great Books and Democracy (Origins and Critiques)',
+    author: 'Victor Davis Hanson',
+    year: '2010',
+    category: 'Video',
+    journal: '',
+    link: 'https://www.youtube.com/watch?v=bSfFFPoakpo',
+    backup: '/assets/videos/VictorDavisHansonDemocracyAndCritiques.mp4'
   }
 ];
 
