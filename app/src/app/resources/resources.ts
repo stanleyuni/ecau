@@ -1784,7 +1784,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'The Ancient Greeks and Western Civilization',
-    author: 'Professor Victor Davis HAnson',
+    author: 'Professor Victor Davis Hanson',
     year: '2007',
     category: 'Video',
     journal: '',
