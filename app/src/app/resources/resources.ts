@@ -47,7 +47,7 @@ const PAPERS: ResearchPaper[] = [
     category: 'Research',
     journal: '',
     year:  '',
-    link: 'https://www.christianidentityaustralia.org/reads/Demise-Policy.pdf',
+    link: '/assets/papers/DemiseOfTheWhiteAustraliaPolicy.pdf',
     backup: '/assets/papers/DemiseOfTheWhiteAustraliaPolicy.pdf'
   },
   {
@@ -1775,7 +1775,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'Great Books and Democracy (Origins and Critiques)',
-    author: 'Victor Davis Hanson',
+    author: 'Professor Victor Davis Hanson',
     year: '2010',
     category: 'Video',
     journal: '',
