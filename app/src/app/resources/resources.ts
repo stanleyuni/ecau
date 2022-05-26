@@ -1790,6 +1790,15 @@ const PAPERS: ResearchPaper[] = [
     journal: '',
     link: 'https://youtube.com/watch?v=opwvWi6cZPI',
     backup: '/assets/videos/TheAncientGreeksandWesternCivilization.mp4'
+  },
+  {
+    title: 'Soul of a poet (Cover by Jason & Chloe Roweth)',
+    category: 'Music',
+    year: '1905',
+    journal: '',
+    author: 'Henry Lawson',
+    link: 'https://youtube.com/watch?v=Zx8CihdOL34',
+    backup: '/assets/music/soulofapoet.mp4'
   }
 ];
 
