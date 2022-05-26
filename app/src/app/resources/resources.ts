@@ -1644,7 +1644,7 @@ const PAPERS: ResearchPaper[] = [
     year: '1992',
     category: 'Video',
     journal: '',
-    link: 'https://www.youtube.com/watch?v=8iruNB1ywj4',
+    link: 'https://www.youtube.com/watch?v=uPfJRetYP04',
     backup: '/assets/videos/AdmissionImpossible.mp4'
   },
   {
@@ -1720,7 +1720,7 @@ const PAPERS: ResearchPaper[] = [
     backup: '/assets/videos/canwegetbackaus.mp4'
   },
   {
-    title: 'Crown, common law and constitution and the Australian situation',
+    title: 'The crown, common law and constitution and the Australian situation',
     category: 'Video',
     journal: '',
     author: 'Freedom potentials',
@@ -1781,6 +1781,15 @@ const PAPERS: ResearchPaper[] = [
     journal: '',
     link: 'https://www.youtube.com/watch?v=bSfFFPoakpo',
     backup: '/assets/videos/VictorDavisHansonDemocracyAndCritiques.mp4'
+  },
+  {
+    title: 'The Ancient Greeks and Western Civilization',
+    author: 'Professor Victor Davis HAnson',
+    year: '2007',
+    category: 'Video',
+    journal: '',
+    link: 'https://youtube.com/watch?v=opwvWi6cZPI',
+    backup: '/assets/videos/TheAncientGreeksandWesternCivilization.mp4'
   }
 ];
 
