@@ -124,7 +124,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'The evolution of ethnocentric behavior',
-    author: 'R. Axelrod & R. A. Hammond',
+    author: 'Professor R. Axelrod & Professor R. A. Hammond',
     category: 'Research',
     journal: 'Midwest Political Science Convention',
     year: '2003',
@@ -133,11 +133,11 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'The (in)compatibility of diversity and sense of community',
-    author: 'Z. P Neal & J. W. Neal',
+    author: 'Professor Z. P Neal & Professor J. W. Neal',
     category: 'Research',
     journal: 'American Journal of Community Psychology',
     year: '2013',
-    link: 'https://pubmed.ncbi.nlm.nih.gov/24198048/',
+    link: 'https://doi.org/10.1007/s10464-013-9608-0',
     backup: '/assets/papers/IncompatabilityofDiversityAndCommunity.pdf'
   },
   {
@@ -151,7 +151,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'Interracial Roommate Relationships: An Experimental Field Test of the Contact Hypothesis',
-    author: 'N. J. Shook & R. H. Fazio',
+    author: 'Professor N. J. Shook & Professor R. H. Fazio',
     category: 'Research',
     journal: 'Psychological Science',
     year: '2008',
@@ -160,7 +160,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'On the Edge of Diversity: Bringing African Americans and Latinos Together in a Neighborhood Group',
-    author: 'J. C. Berryhill & J. A. Linney',
+    author: 'Dr J. C. Berryhill & Professor J. A. Linney',
     category: 'Research',
     journal: 'American Journal of Community Psychology',
     year: '2008',
@@ -169,7 +169,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'Different level of population differentiation among human genes',
-    author: 'D. Wu & Y. Zhang',
+    author: 'Professor D. Wu & Dr Y. Zhang',
     category: 'Research',
     journal: 'BMC Evolutionary Biology',
     year: '2011',
@@ -178,7 +178,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'The Gender-Equality Paradox in Science, Technology, Engineering, and Mathematics Education',
-    author: 'G. Stoet & D. Geary',
+    author: 'Professor G. Stoet & Profesor D. Geary',
     category: 'Research',
     journal: 'Psychological Science',
     year: '2018',
@@ -856,7 +856,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'Brain size, IQ, and racial-group differences: Evidence from musculoskeletal traits',
-    author: 'J. P. Rushton & E. W. Rushton',
+    author: 'Professor J. P. Rushton & Dr E. W. Rushton',
     category: 'Research',
     journal: 'Intelligence',
     year: '2003',
@@ -902,7 +902,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'The Evolution of Intelligence',
-    author: 'Professor K. MacDonald & M. A. Woodley',
+    author: 'Professor K. MacDonald & Dr M. A. Woodley',
     category: 'Research',
     journal: 'Encyclopedia of Evolutionary Psychological Science',
     year: '2016',
@@ -1005,7 +1005,7 @@ const PAPERS: ResearchPaper[] = [
     year: '1902',
     category: 'Artwork',
     journal: 'Artwork',
-    link: '/assets/images/art/NutallOpening.jpg', // NutallOpeningBlack.jpg
+    link: '/assets/images/art/NutallOpening.jpg',
     backup: '/assets/images/art/NutallOpening.jpg'
   },
   {
@@ -1064,7 +1064,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'Minnesota transracial adoption study',
-    author: 'S. Scarr & R. A. Weinberg',
+    author: 'Professor S. Scarr & Professor R. A. Weinberg',
     year: '1976',
     category: 'Research',
     journal: 'American Psychologist',
@@ -1109,7 +1109,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'The Geography of Intelligence',
-    author: 'Richard Lynn',
+    author: 'Professor Richard Lynn',
     year: '2003',
     category: 'Research',
     journal: 'The Scientific Study of General Intelligence',
@@ -1122,7 +1122,7 @@ const PAPERS: ResearchPaper[] = [
     year: '2015',
     category: 'Research',
     journal: 'SSRN Electronic Journal',
-    link: 'https://www.researchgate.net/publication/315367933_Ninety_Two_Percent_Examining_the_Birth_Trends_Family_Structure_Economic_Standing_Paternal_Relationships_and_Emotional_Stability_of_Biracial_Children_with_African_American_Fathers',
+    link: '/assets/papers/ninetytwopercent.pdf', // https://doi.org/10.2139/ssrn.2625893
     backup: '/assets/papers/ninetytwopercent.pdf'
   },
   {
