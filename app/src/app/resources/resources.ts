@@ -97,7 +97,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'Wanted: More race realism, less moralistic fallacy',
-    author: ' J. P. Rushton &  A. R. Jensen',
+    author: 'Professor J. P. Rushton &  Professor A. R. Jensen',
     category: 'Research',
     journal: 'American Psychological Association',
     year: '2005',
@@ -128,8 +128,8 @@ const PAPERS: ResearchPaper[] = [
     category: 'Research',
     journal: 'Midwest Political Science Convention',
     year: '2003',
-    link: 'https://dro.deakin.edu.au/eserv/DU:30072938/paradies-patternsof-2014.pdf',
-    backup: '/assets/papers/paradies-patternsof-2014.pdf'
+    link: 'https://doi.org/10.1177/0022002706293470',
+    backup: '/assets/papers/0022002706293470.pdf'
   },
   {
     title: 'The (in)compatibility of diversity and sense of community',
