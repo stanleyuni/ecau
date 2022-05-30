@@ -2,6 +2,7 @@ import { AfterViewInit, Component, ViewChild } from '@angular/core';
 import { MatPaginator } from '@angular/material/paginator';
 import { MatSort } from '@angular/material/sort';
 import { MatTableDataSource } from '@angular/material/table';
+import { basename } from 'path';
 
 export interface ResearchPaper {
   title: string;
@@ -1799,6 +1800,15 @@ const PAPERS: ResearchPaper[] = [
     author: 'Henry Lawson',
     link: 'https://youtube.com/watch?v=Zx8CihdOL34',
     backup: '/assets/music/soulofapoet.mp4'
+  },
+  {
+    title: 'African crime statistics in Australia',
+    year: '2022',
+    journal: '',
+    author: 'ecau.org',
+    category: 'Research',
+    link: '/assets/papers/AUSTRALIAN_SUDANESE_CRIME_STATISTICS.pdf',
+    backup: '/assets/papers/AUSTRALIAN_SUDANESE_CRIME_STATISTICS.pdf'
   }
 ];
 
