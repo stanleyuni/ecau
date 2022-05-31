@@ -1808,6 +1808,15 @@ const PAPERS: ResearchPaper[] = [
     category: 'Research',
     link: '/assets/papers/AUSTRALIAN_SUDANESE_CRIME_STATISTICS.pdf',
     backup: '/assets/papers/AUSTRALIAN_SUDANESE_CRIME_STATISTICS.pdf'
+  },
+  {
+    title: 'A discussion on race, crime and the inconvenient facts',
+    author: 'Professor John F. Gaski',
+    year: '2013',
+    category: 'Article',
+    journal: 'American Reanaissance',
+    link: '/assets/papers/ADiscussionOnRace.pdf',
+    backup: '/assets/papers/ADiscussionOnRace.pdf'
   }
 ];
 
