@@ -1817,6 +1817,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'American Reanaissance',
     link: '/assets/papers/ADiscussionOnRace.pdf',
     backup: '/assets/papers/ADiscussionOnRace.pdf'
+  },
+  {
+    title: 'Gun control and authoritarian beliefs by race',
+    author: 'Pew Research Center',
+    year: '2016',
+    journal: '',
+    category: 'Research',
+    link: '/assets/papers/GunControlAndGovernmentSizeByRace.pdf',
+    backup: '/assets/papers/GunControlAndGovernmentSizeByRace.pdf'
   }
 ];
 
