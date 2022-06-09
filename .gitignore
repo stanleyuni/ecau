@@ -5,6 +5,7 @@ app/node_modules
 **/*/node_modules
 **/*/.firebase
 .firebase
+._*
 
 # Large files
 **/*/*.mp4

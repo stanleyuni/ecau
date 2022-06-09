@@ -1826,6 +1826,15 @@ const PAPERS: ResearchPaper[] = [
     category: 'Research',
     link: '/assets/papers/GunControlAndGovernmentSizeByRace.pdf',
     backup: '/assets/papers/GunControlAndGovernmentSizeByRace.pdf'
+  },
+  {
+    title: 'LGBT studies pedophilic foundations',
+    author: 'ecau.org',
+    year: '2022',
+    journal: '',
+    category: 'Article',
+    link: '/assets/papers/LGBTstudiespedophilicfoundations.pdf',
+    backup: '/assets/papers/LGBTstudiespedophilicfoundations.pdf'
   }
 ];
 
