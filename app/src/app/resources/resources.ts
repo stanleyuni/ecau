@@ -1835,6 +1835,15 @@ const PAPERS: ResearchPaper[] = [
     category: 'Article',
     link: '/assets/papers/LGBTstudiespedophilicfoundations.pdf',
     backup: '/assets/papers/LGBTstudiespedophilicfoundations.pdf'
+  },
+  {
+    title: 'What is a woman?',
+    year: '2022',
+    author: 'The Daily Wire',
+    category: 'Video',
+    journal: '',
+    link: 'https://www.bitchute.com/video/RaAwHMw7nXtK/',
+    backup: 'https://www.dailywire.com/videos/what-is-a-woman'
   }
 ];
 
