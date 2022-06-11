@@ -1842,8 +1842,18 @@ const PAPERS: ResearchPaper[] = [
     author: 'The Daily Wire',
     category: 'Video',
     journal: '',
-    link: 'https://www.bitchute.com/video/RaAwHMw7nXtK/',
+    link: 'https://www.dailywire.com/videos/what-is-a-woman',
+    // link: 'https://www.bitchute.com/video/RaAwHMw7nXtK/',
     backup: 'https://www.dailywire.com/videos/what-is-a-woman'
+  },
+  {
+    title: 'Queer studies and pedophilia',
+    year: '2022',
+    author: '',
+    category: 'Composition',
+    journal: '',
+    link: '/assets/papers/Queerstudiesandpedophilia.pdf',
+    backup: '/assets/papers/Queerstudiesandpedophilia.pdf'
   }
 ];
 
