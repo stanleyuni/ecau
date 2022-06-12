@@ -1854,6 +1854,15 @@ const PAPERS: ResearchPaper[] = [
     journal: '',
     link: '/assets/papers/Queerstudiesandpedophilia.pdf',
     backup: '/assets/papers/Queerstudiesandpedophilia.pdf'
+  },
+  {
+    title: 'The consequences of Gayle Rubin\'s 1984 Thinking Sex',
+    author: '',
+    category: 'Image',
+    year: '2022',
+    journal: '',
+    link: '/assets/images/gayle_rubin_thinking_sex.png',
+    backup: '/assets/images/gayle_rubin_thinking_sex.png'
   }
 ];
 
