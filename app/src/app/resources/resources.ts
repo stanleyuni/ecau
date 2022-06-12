@@ -1863,6 +1863,15 @@ const PAPERS: ResearchPaper[] = [
     journal: '',
     link: '/assets/images/gayle_rubin_thinking_sex.png',
     backup: '/assets/images/gayle_rubin_thinking_sex.png'
+  },
+  {
+    title: 'The White Australia Policy',
+    author: 'Conrade Quihampton',
+    year: '1953',
+    category: 'Image',
+    journal: '',
+    link: '/assets/images/WAP/ConradeQuihampton.png',
+    backup: '/assets/images/WAP/ConradeQuihampton.png'
   }
 ];
 
@@ -1888,7 +1897,7 @@ export class ResourcesComponent implements AfterViewInit {
   ngAfterViewInit() {
     this.dataSource.paginator = this.paginator;
     this.dataSource.sort = this.sort;
-    console.log(document.querySelector('th.author')?.children[0]);
+    // console.log(document.querySelector('th.author')?.children[0]);
   }
 
   applyFilter(event: Event) {
