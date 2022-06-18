@@ -1872,6 +1872,15 @@ const PAPERS: ResearchPaper[] = [
     journal: '',
     link: '/assets/images/WAP/ConradeQuihampton.png',
     backup: '/assets/images/WAP/ConradeQuihampton.png'
+  },
+  {
+    title: 'Gender Sex and Personality',
+    author: 'Jake Spencer Walklate',
+    year: '2022',
+    category: 'Article',
+    journal: '',
+    link: '/assets/papers/GenderSexandPersonality.pdf',
+    backup: '/assets/papers/GenderSexandPersonality.pdf'
   }
 ];
 
