@@ -1847,24 +1847,6 @@ const PAPERS: ResearchPaper[] = [
     backup: 'https://www.dailywire.com/videos/what-is-a-woman'
   },
   {
-    title: 'Queer studies and pedophilia',
-    year: '2022',
-    author: '',
-    category: 'Composition',
-    journal: '',
-    link: '/assets/papers/Queerstudiesandpedophilia.pdf',
-    backup: '/assets/papers/Queerstudiesandpedophilia.pdf'
-  },
-  // {
-  //   title: 'The consequences of Gayle Rubin\'s 1984 Thinking Sex',
-  //   author: '',
-  //   category: 'Image',
-  //   year: '2022',
-  //   journal: '',
-  //   link: '/assets/images/gayle_rubin_thinking_sex.png',
-  //   backup: '/assets/images/gayle_rubin_thinking_sex.png'
-  // },
-  {
     title: 'The White Australia Policy',
     author: 'Conrade Quihampton',
     year: '1953',
