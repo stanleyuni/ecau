@@ -1863,6 +1863,24 @@ const PAPERS: ResearchPaper[] = [
     journal: '',
     link: '/assets/papers/GenderSexandPersonality.pdf',
     backup: '/assets/papers/GenderSexandPersonality.pdf'
+  },
+  {
+    title: 'Who Brought The Slaves To America?',
+    author: 'Walter White Jr',
+    year: '1968',
+    category: 'Book',
+    journal: '',
+    link: '/assets/papers/Who-Brought.pdf',
+    backup: '/assets/papers/Who-Brought.pdf'
+  },
+  {
+    title: 'Higlights and key points: The secret relationship between blacks and jews',
+    author: 'NOI research group',
+    year: '2012',
+    category: 'Review',
+    journal: '',
+    link: '/assets/papers/TSR-Highlights-Key-Points1-Blacks-and-Jews.pdf',
+    backup: '/assets/papers/TSR-Highlights-Key-Points1-Blacks-and-Jews.pdf'
   }
 ];
 
