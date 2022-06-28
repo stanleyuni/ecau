@@ -1881,6 +1881,15 @@ const PAPERS: ResearchPaper[] = [
     journal: '',
     link: '/assets/papers/TSR-Highlights-Key-Points1-Blacks-and-Jews.pdf',
     backup: '/assets/papers/TSR-Highlights-Key-Points1-Blacks-and-Jews.pdf'
+  },
+  {
+    title: 'Social Consequences of Group Differences in Cognitive Ability',
+    author: 'Professor Linda S. Gottfredson',
+    year: '2004',
+    category: 'Research',
+    journal: 'ArtMed',
+    link: '/assets/papers/2004socialconsequences.pdf',
+    backup: '/assets/papers/2004socialconsequences.pdf'
   }
 ];
 
