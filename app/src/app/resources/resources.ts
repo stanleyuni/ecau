@@ -1890,6 +1890,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'ArtMed',
     link: '/assets/papers/2004socialconsequences.pdf',
     backup: '/assets/papers/2004socialconsequences.pdf'
+  },
+  {
+    title: 'The Demographics of Innovation in the United States',
+    author: 'Nager et al.',
+    year: '2016',
+    category: 'Research',
+    journal: 'ITIF',
+    link: 'https://doi.org/10.2139/ssrn.3066060',
+    backup: '/assets/papers/2016-demographics-of-innovation.pdf'
   }
 ];
 
