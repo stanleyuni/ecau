@@ -1893,7 +1893,7 @@ const PAPERS: ResearchPaper[] = [
   },
   {
     title: 'The Demographics of Innovation in the United States',
-    author: 'Nager et al.',
+    author: 'Nager et al',
     year: '2016',
     category: 'Research',
     journal: 'ITIF',
