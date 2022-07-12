@@ -1899,6 +1899,15 @@ const PAPERS: ResearchPaper[] = [
     journal: 'ITIF',
     link: 'https://doi.org/10.2139/ssrn.3066060',
     backup: '/assets/papers/2016-demographics-of-innovation.pdf'
+  },
+  {
+    title: 'Anzac, the Landing 1915',
+    author: 'George Washington Lambert',
+    year: '1920\'s',
+    category: 'Artwork',
+    journal: '',
+    link: '/assets/images/art/Anzac_the_landing_1915.jpg',
+    backup: '/assets/images/art/Anzac_the_landing_1915.jpg'
   }
 ];
 
