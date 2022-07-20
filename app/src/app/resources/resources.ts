@@ -1908,6 +1908,69 @@ const PAPERS: ResearchPaper[] = [
     journal: '',
     link: '/assets/images/art/Anzac_the_landing_1915.jpg',
     backup: '/assets/images/art/Anzac_the_landing_1915.jpg'
+  },
+  {
+    title: 'A Smart Solution to the Diversity Dilemma',
+    author: 'Jason Richwine',
+    year: '2009',
+    category: 'Article',
+    journal: 'American Enterprise Institute',
+    link: '/assets/papers/ASmartSolutiontotheDiversityDilemma.pdf',
+    backup: '/assets/papers/ASmartSolutiontotheDiversityDilemma.pdf'
+  },
+  {
+    title: 'E Pluribus Unum : Diversity and Community in the Twenty-first Century',
+    author: 'Robert D. Putnam',
+    year: '2007',
+    category: 'Research',
+    journal: 'Wiley Online Library',
+    link: 'https://doi.org/10.1111/j.1467-9477.2007.00176.x',
+    backup: '/assets/papers/putnam2007.pdf'
+  },
+  {
+    title: 'Domestic Ethnic Conflict and Ethnic Nepotism: A Comparative Analysis',
+    author: 'Tatu Vanhanen',
+    year: '1999',
+    category: 'Research',
+    journal: 'Journal of Peace Research',
+    link: 'https://doi.org/10.1177/0022343399036001004',
+    backup: '/assets/papers/vanhanen1999.pdf'
+  },
+  {
+    title: 'Civic Engagement and Community Heterogeneity: An Economist\'s Perspective',
+    author: 'Professor Dora L. Costa & Professor Matthew E. Kahn',
+    year: '2003',
+    category: 'Research',
+    journal: 'Perspectives on Politics',
+    link: 'https://doi.org/10.1017/S1537592703000082',
+    backup: '/assets/papers/costa2003.pdf'
+  },
+  {
+    title: 'How integrated is modern Britain?',
+    author: 'Social Integration Commission',
+    year: '2014',
+    journal: 'Social Intergration Commission',
+    category: 'Research',
+    link: '/assets/papers/Social-Integration-Commission-Report_WEB.pdf',
+    backup: '/assets/papers/Social-Integration-Commission-Report_WEB.pdf'
+  },
+  {
+    title: 'Despite a degree of accommodation to change, white British citizens remain largely opposed to increased ethnic diversity',
+    author: 'Democratic Audit UK',
+    year: '2014',
+    journal: 'Democratic Audit UK',
+    category: 'Article',
+    link: '/assets/papers/DespiteadegreeofaccommodationtochangewhiteBritishcitizensremainlargelyopposedtoincreasedethnicdiversity.pdf',
+    backup: '/assets/papers/DespiteadegreeofaccommodationtochangewhiteBritishcitizensremainlargelyopposedtoincreasedethnicdiversity.pdf'
+  },
+  {
+    title: 'Mapping the white British response to ethnic change',
+    author: 'Professor Eric Kaufmann & Gareth Harris',
+    year: '2014',
+    category: 'Research',
+    journal: 'Demos',
+    link: '/assets/papers/Changing_places_-_web.pdf',
+    backup: '/assets/papers/Changing_places_-_web.pdf'
   }
 ];
 
